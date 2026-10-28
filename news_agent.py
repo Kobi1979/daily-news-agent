@@ -85,7 +85,12 @@ def collect_news() -> str:
     for section, urls in FEEDS.items():
         parts.append(f"## {section}")
         for url in urls:
-            feed = feedparser.parse(url)
+            try:
+                resp = requests.get(url, timeout=30, headers={"User-Agent": "Mozilla/5.0"})
+                feed = feedparser.parse(resp.content)
+            except Exception as e:
+                print("Błąd źródła:", url, e)
+                continue
             for entry in feed.entries[:MAX_PER_FEED]:
                 title = entry.get("title", "")
                 summary = entry.get("summary", "")[:300]
@@ -93,12 +98,12 @@ def collect_news() -> str:
     return "\n".join(parts)
 
 
-# Modele próbowane po kolei - jeśli pierwszy nie działa, skrypt przechodzi do kolejnego
-GEMINI_MODELS = ["gemini-3.8-flash", "gemini-2.5-flash"]
+# Modele próbowane po kolei - jeśli któryś nie odpowiada, skrypt przechodzi do kolejnego
+GEMINI_MODELS = ["gemini-2.5-flash", "gemini-3.8-flash", "gemini-2.5-flash-lite"]
 
 
-def summarize(news: str) -> str:
-    """Streszcza wiadomości przez darmowe Gemini API (klucz z Google AI Studio)."""
+def summarize(news: str):
+    """Streszcza wiadomości przez darmowe Gemini API. Zwraca None, gdy nic nie zadziała."""
     prompt = f"""Poniżej są nagłówki z dzisiejszych wiadomości (rynki oraz świat).
 Przygotuj po polsku zwięzły poranny briefing:
 
@@ -110,26 +115,36 @@ Pisz konkretnie, bez wstępów. Nie wymyślaj faktów spoza podanych nagłówkó
 
 {news}"""
     api_key = os.environ["GEMINI_API_KEY"]
-    last_error = None
 
     for model in GEMINI_MODELS:
         url = (
             "https://generativelanguage.googleapis.com/v1beta/models/"
             f"{model}:generateContent"
         )
-        response = requests.post(
-            url,
-            headers={"x-goog-api-key": api_key, "Content-Type": "application/json"},
-            json={"contents": [{"parts": [{"text": prompt}]}]},
-            timeout=120,
-        )
-        if response.ok:
-            parts = response.json()["candidates"][0]["content"]["parts"]
-            return "".join(p.get("text", "") for p in parts)
-        last_error = f"{model}: {response.status_code} {response.text[:300]}"
-        print("Model nie zadziałał ->", last_error)
+        try:
+            response = requests.post(
+                url,
+                headers={"x-goog-api-key": api_key, "Content-Type": "application/json"},
+                json={"contents": [{"parts": [{"text": prompt}]}]},
+                timeout=60,
+            )
+        except requests.RequestException as e:
+            print(f"Model {model} nie odpowiedział w czasie: {e}")
+            continue
 
-    raise RuntimeError(f"Żaden model Gemini nie odpowiedział. Ostatni błąd: {last_error}")
+        if response.ok:
+            try:
+                parts = response.json()["candidates"][0]["content"]["parts"]
+                text = "".join(p.get("text", "") for p in parts)
+                if text.strip():
+                    print("Streszczenie wykonał model:", model)
+                    return text
+            except (KeyError, IndexError, ValueError) as e:
+                print(f"Model {model} zwrócił nieoczekiwaną odpowiedź: {e}")
+        else:
+            print(f"Model {model}: błąd {response.status_code} {response.text[:300]}")
+
+    return None
 
 
 def send_email(body: str) -> None:
@@ -145,7 +160,7 @@ def send_email(body: str) -> None:
     host = os.environ.get("SMTP_HOST", "poczta.interia.pl")
     port = int(os.environ.get("SMTP_PORT", "465"))
 
-    with smtplib.SMTP_SSL(host, port) as server:
+    with smtplib.SMTP_SSL(host, port, timeout=60) as server:
         server.login(user, password)
         server.send_message(msg)
 
@@ -159,5 +174,11 @@ if __name__ == "__main__":
 
     news = collect_news()
     briefing = summarize(news)
+    if briefing is None:
+        briefing = (
+            "Streszczenie AI jest dzisiaj niedostępne. Surowe nagłówki:\n\n"
+            + news[:4000]
+        )
+
     send_email(weather + "\n\n" + "-" * 30 + "\n\n" + briefing)
     print("Wysłano briefing.")
