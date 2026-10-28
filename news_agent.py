@@ -99,11 +99,13 @@ def collect_news() -> str:
 
 
 # Modele próbowane po kolei - jeśli któryś nie odpowiada, skrypt przechodzi do kolejnego
-GEMINI_MODELS = ["gemini-2.5-flash", "gemini-3.8-flash", "gemini-2.5-flash-lite"]
+GEMINI_MODELS = ["gemini-3.8-flash", "gemini-3.5-flash-lite"]
 
 
 def summarize(news: str):
     """Streszcza wiadomości przez darmowe Gemini API. Zwraca None, gdy nic nie zadziała."""
+    import time
+
     prompt = f"""Poniżej są nagłówki z dzisiejszych wiadomości (rynki oraz świat).
 Przygotuj po polsku zwięzły poranny briefing:
 
@@ -121,28 +123,35 @@ Pisz konkretnie, bez wstępów. Nie wymyślaj faktów spoza podanych nagłówkó
             "https://generativelanguage.googleapis.com/v1beta/models/"
             f"{model}:generateContent"
         )
-        try:
-            response = requests.post(
-                url,
-                headers={"x-goog-api-key": api_key, "Content-Type": "application/json"},
-                json={"contents": [{"parts": [{"text": prompt}]}]},
-                timeout=60,
-            )
-        except requests.RequestException as e:
-            print(f"Model {model} nie odpowiedział w czasie: {e}")
-            continue
-
-        if response.ok:
+        # do 4 prób na model - błąd 503 ("duży ruch") zwykle mija po chwili
+        for attempt in range(1, 5):
             try:
-                parts = response.json()["candidates"][0]["content"]["parts"]
-                text = "".join(p.get("text", "") for p in parts)
-                if text.strip():
-                    print("Streszczenie wykonał model:", model)
-                    return text
-            except (KeyError, IndexError, ValueError) as e:
-                print(f"Model {model} zwrócił nieoczekiwaną odpowiedź: {e}")
-        else:
-            print(f"Model {model}: błąd {response.status_code} {response.text[:300]}")
+                response = requests.post(
+                    url,
+                    headers={"x-goog-api-key": api_key, "Content-Type": "application/json"},
+                    json={"contents": [{"parts": [{"text": prompt}]}]},
+                    timeout=60,
+                )
+            except requests.RequestException as e:
+                print(f"Model {model}, próba {attempt}: brak odpowiedzi: {e}")
+                break
+
+            if response.ok:
+                try:
+                    parts = response.json()["candidates"][0]["content"]["parts"]
+                    text = "".join(p.get("text", "") for p in parts)
+                    if text.strip():
+                        print("Streszczenie wykonał model:", model)
+                        return text
+                except (KeyError, IndexError, ValueError) as e:
+                    print(f"Model {model} zwrócił nieoczekiwaną odpowiedź: {e}")
+                break
+
+            print(f"Model {model}, próba {attempt}: błąd {response.status_code} {response.text[:200]}")
+            if response.status_code in (429, 500, 503) and attempt < 4:
+                time.sleep(20 * attempt)  # czekamy 20, 40, 60 sekund i próbujemy znowu
+                continue
+            break
 
     return None
 
