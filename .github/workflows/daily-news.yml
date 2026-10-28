@@ -1,0 +1,30 @@
+name: Daily news briefing
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # 06:00 UTC = 07:00 czasu zimowego w Polsce (08:00 latem)
+  workflow_dispatch:       # pozwala uruchomić ręcznie przyciskiem "Run workflow"
+
+permissions:
+  contents: read
+
+jobs:
+  send-briefing:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run agent
+        run: python news_agent.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          EMAIL_USER: ${{ secrets.EMAIL_USER }}
+          EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
