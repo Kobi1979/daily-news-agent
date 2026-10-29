@@ -6,7 +6,7 @@ on:
   workflow_dispatch:       # pozwala uruchomić ręcznie przyciskiem "Run workflow"
 
 permissions:
-  contents: read
+  contents: write          # potrzebne, żeby zapisać briefing w repozytorium
 
 jobs:
   send-briefing:
@@ -25,6 +25,11 @@ jobs:
         run: python news_agent.py
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          EMAIL_USER: ${{ secrets.EMAIL_USER }}
-          EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
-          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+
+      - name: Save briefing to repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md briefings/
+          git diff --cached --quiet || git commit -m "Briefing $(date +%F)"
+          git push
