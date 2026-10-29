@@ -4,29 +4,28 @@
 
 - Pochmurno
 - Temperatura: 8°C do 12°C (odczuwalna 6°C do 10°C)
-- Opady: 0.0 mm, prawdopodobieństwo do 14%
-- Wiatr: do 10 km/h, w porywach 21 km/h
+- Opady: 0.0 mm, prawdopodobieństwo do 10%
+- Wiatr: do 10 km/h, w porywach 20 km/h
 - Indeks UV: 2
 - Wschód słońca: 06:25, zachód: 16:12
 
 ---
 
-**RYNKI**
-1. Kanclerz Wielkiej Brytanii John Healey przedstawił swój pierwszy budżet, wprowadzając m.in. 100 funtów dopłaty do rachunków za energię od stycznia oraz cięcia o 1% w departamentach państwowych na sfinansowanie planu obronnego.
-2. Brytyjskie progi podatkowe pozostaną zamrożone przez kolejne trzy lata, a wyższe ceny energii i otoczenie makroekonomiczne mocno uderzają w wzrost gospodarczy oraz standard życia.
-3. Wall Street: Goldman Sachs, JPMorgan i Morgan Stanley dominują w boomu na akcje związane ze sztuczną inteligencją, generując 52 miliardy dolarów przychodów z handlu kapitałowego.
-4. Akcje Alphabetu zanotowały silne spadki z obaw, że rozwój AI negatywnie wpływa na zdolność firmy do generowania zysków z zapytań w wyszukiwarce.
-5. Szef Fedu Kevin Warsh wyjaśnił, że bank centralny wstrzymał się z podwyżkami stóp procentowych ze względu na zbliżający się okres bogaty w dane gospodarcze.
-6. Spotkania MFW i Banku Światowego w Bangkoku: globalni szefowie finansów skupili się na ryzykach zadłużenia, sztucznej inteligencji i Ukrainie, podczas gdy temat Chin zszedł na dalszy plan.
-7. Fundusz uniwersytecki Harvarda zanotował 27% wzrost w roku podatkowym 2026, napędzany m.in. udziałami w SpaceX, którego szef Elon Musk został pochwalony przez Wladimira Putina po rozmowach o satelitach.
+**1. RYNKI**
+- Kanclerz Wielkiej Brytanii John Healey przedstawił swój pierwszy budżet, wprowadzając m.in. 100 funtów dopłaty do rachunków za energię oraz podatek od banków, co spotkało się z krytyką opozycji i niezadowoleniem z braku cięć podatku paliwowego.
+- Microsoft odnotował gwałtowny wzrost zysków i silne notowania giełdowe dzięki kontrolowaniu kosztów, mimo wcześniejszych zapowiedzi zwolnień 60 000 pracowników, podczas gdy Alphabet zanotował obawy inwestorów o wpływ sztucznej inteligencji na zyski z wyszukiwarki.
+- Wielka trójka z Wall Street (Goldman Sachs, JPMorgan i Morgan Stanley) dominuje w boomu na akcje związane z AI, generując 52 miliardy dolarów przychodów z obrotu kapitałowego dzięki marżom i pożyczkom dla funduszy hedgingowych.
+- Szef HSBC ostrzegł, że nie każde centrum danych związane z AI będzie dobrą inwestycją, a giełdowe wyniki Fortinet i ServiceNow rozczarowały inwestorów pomimo rosnących trendów technologicznych.
+- Endowment Uniwersytetu Harvardu odnotował w roku fiskalnym 2026 wzrost o 27%, napędzany m.in. przez inwestycje w SpaceX Elona Muska.
+- Stany Zjednoczone naciskały na Chiny podczas dwustronnych rozmów w Bangkoku w sprawie ułatwienia dostępu do rynku dla Mastercard i Citigroup.
 
-**ŚWIAT**
-1. W zderzeniu pociągów dużych prędkości w prowincji Toledo w Hiszpanii zginęło co najmniej 68 osób, a ponad 100 zostało rannych (największa katastrofa kolejowa w kraju od ponad dekady).
-2. Wstępne wyniki wyborów w Izraelu (po przeliczeniu 85% głosów) pokazują prowadzenie bloku Benjamina Netanjahu, który zdobywa 53 mandaty, co nie daje mu większości w 120-osobowym Knesecie i grozi paraliżem politycznym.
-3. Pokonany w wyborach brazylijski polityk Flávio Bolsonaro zaprzecza ucieczce z kraju po przylocie do Miami, twierdząc, że jest orędownikiem walki z prześladowaniami politycznymi.
-4. W Belgradzie zastrzelony został nastoletni Serb po zaatakowaniu policjanta przed izraelską ambasadą.
-5. Władze Tanzanii ogłosiły pierwsze od ponad 10 lat odkrycie gazu ziemnego w kraju.
-6. Sąd w Bukareszcie przedłużył o 30 dni areszt tymczasowy dla skrajnie prawicowego rumuńskiego polityka Calina Georgescu.
-7. Zgromadzenie Ogólne ONZ potęcilo embargo wobec Kuby, mimo wysiłków dyplomatycznych USA.
+**2. ŚWIAT**
+- Co najmniej 68 osób zginęło w katastrofie dwóch pociągów dużej prędkości w prowincji Toledo w Hiszpanii, do której doszło w wyniku „niewytłumaczalnego” błędu.
+- W Izraelu, po przeliczeniu 85% głosów w wyborach parlamentarnych, blok Benjamina Netanjahu prowadzi, ale zdobywa jedynie 53 mandaty, co nie daje mu większości w 120-osobowym Knesecie i grozi klinczem politycznym.
+- Ponad 600 dronów zostało wystrzelonych w kierunku Moskwy w ramach kolejnego z serii nocnych ataków na rosyjską stolicę.
+- Władze Tanzanii ogłosiły pierwsze od ponad 10 lat odkrycie złóż gazu ziemnego w kraju, co minister energii nazwał kamieniem milowym.
+- Pasażerowie luksusowego wycieczkowca Villa Vie Odyssey utknęli w Kambodży z powodu drastycznego wzrostu kosztów paliwa, zawieszając rejs.
+- W Demokratycznej Republice Konga świętowano wypisanie ostatniego pacjenta z ośrodka leczenia Eboli.
+- W Belgradzie nieletni obcokrajowiec został zastrzelony po zaatakowaniu policjanta przed ambasadą Izraela.
 
-Dziś warto obserwować reakcje rynków na wyniki spółek technologicznych (m.in. Alphabet i Fortinet) oraz rozwój sytuacji wokół politycznego impasu po wyborach w Izraelu.
+Dziś warto obserwować reakcje rynków na wyniki finansowe spółki technologicznych oraz dalsze doniesienia dotyczące politycznego klinczu wyborczego w Izraelu.
