@@ -3,7 +3,7 @@
 ## POGODA - Warszawa, 29.10.2026
 
 - Pochmurno
-- Temperatura: 8°C do 12°C (odczuwalna 6°C do 10°C)
+- Temperatura: 8°C do 11°C (odczuwalna 6°C do 9°C)
 - Opady: 0.0 mm, prawdopodobieństwo do 10%
 - Wiatr: do 10 km/h, w porywach 20 km/h
 - Indeks UV: 2
@@ -12,35 +12,33 @@
 ---
 
 ## Rynki światowe
-- Kanclerz Wielkiej Brytanii John Healey przedstawił swój pierwszy budżet, wprowadzając m.in. 100 funtów na rachunki za energię oraz podatek od banków.
-- Akcje Microsoftu wzrosły po ogłoszeniu silnych wyników kwartalnych napędzanych przez platformę Azure, pomimo wcześniejszych zapowiedzi zwolnień tysięcy pracowników.
-- Notowania Alphabetu zanotowały największą jednodniową przecenę w historii po publikacji wyników, w obliczu obaw inwestorów o wpływ sztucznej inteligencji na zyski z wyszukiwarki.
-- Wall Street dominuje w handlu akcjami związanymi ze sztuczną inteligencją – Goldman Sachs, JPMorgan i Morgan Stanley wygenerowały w tym roku 52 miliardy dolarów przychodów z handlu akcjami.
-- Federalny Komitet Otwartego Rynku (FOMC) w USA powstrzymał się od podwyżki stóp procentowych, choć na rynku oczekuje się ruchu w grudniu.
-- Ceny ropy naftowej na rynkach światowych spadają w reakcji na działania dyplomatyczne na Bliskim Wschodzie.
+- Bank centralny USA (Fed) tymczasowo wstrzymał podwyżki stóp procentowych, choć rosnąca inflacja sprawia, że pauza może nie potrwać długo.
+- Amerykańska gospodarka zanotowała najszybsze tempo wzrostu PKB od roku, napędzana boomem na sztuczną inteligencję i wydatkami konsumentów.
+- Wall Street dominuje w boomu na akcje AI – Goldman Sachs, JPMorgan i Morgan Stanley wygenerowały 52 miliardy dolarów z handlu akcjami.
+- Kanclerz Wielkiej Brytanii zaprezentował pierwszy budżet zawierający 100 funtów dopłaty do rachunków za energię oraz podatki dla banków.
+- Microsoft odnotował gwałtowny wzrost zysków z chmury zaledwie kilka dni po ogłoszeniu tysięcy zwolnień.
 
 ## Świat
-- Co najmniej 68 osób zginęło w tragicznym wypadku pociągu dużych prędkości w Hiszpanii.
-- Blok polityczny Benjamina Netanjahu prowadzi w wyborach w Izraelu po policzeniu 85% głosów, jednak brakuje mu większości do sformowania rządu.
-- Rosja poinformowała o wystrzeleniu ponad 600 dronów w kierunku Moskwy podczas nocnego ataku.
-- Władze w Serbii zastrzeliły nastolatka, który zaatakował policjanta przed ambasadą Izraela w Belgradzie.
-- Tanzania świętuje pierwsze od ponad 10 lat odkrycie złóż gazu ziemnego, co uznano za kluczowy kamień milowy dla kraju.
+- Wstępne wyniki wyborów w Izraelu wskazują, że blok Benjamina Netanjahu prowadzi, ale nie ma większości w Knesecie.
+- Co najmniej 13 osób zginęło w rosyjskim ataku dronów na stację kolejową w Ukrainie.
+- Prokuratura w Korei Południowej domaga się kary śmierci dla byłego prezydenta Yoon Suk-yeola w sprawie stanu wojennego.
+- USA nałożyły sankcje na ministerstwo obrony Rwanda w związku z konfliktem w Demokratycznej Republice Konga.
+- Trwa kryzys humanitarny w Jemenie, gdzie walki w okolicach Taiz zmusiły do ucieczki ponad 281 tysięcy osób.
 
 ## Polska - ogólne
-- Polska przekaże Ukrainie dwa samoloty MiG-29 w odpowiedzi na prośby Kijowa, co potwierdził przedstawiciel MON.
-- Rosyjskie MSZ zażądało od Polski reakcji i ukarania winnych zniszczenia tablicy pamiątkowej na cmentarzu żołnierzy radzieckich w Warszawie.
-- Sąd Okręgowy w Warszawie zakazał aktywiście Zbigniewowi Komosie sugerowania odpowiedzialności Lecha Kaczyńskiego za katastrofę smoleńską oraz nakazał mu przeprosiny Jarosław Kaczyńskiego i wpłatę 30 tys. zł na cele charytatywne.
-- Koalicja rządząca planuje w listopadzie ponownie zmienić Kodeks wyborczy, aby dostosować liczbę posłów w okręgach do liczby mieszkańców, pomimo wcześniejszego weta prezydenta Karola Nawrockiego.
-- Z sondażu IBRiS wynika, że największa grupa Polaków (32,7%) uważa, że ani prezydent Karol Nawrocki, ani premier Donald Tusk nie mają racji w sporze wokół Trybunału Konstytucyjnego.
-- Kompletnie pijanego kierowcę Porsche, które wjechało w budynek apteki w Bolszewie, zatrzymano i osądzono w trybie przyspieszonym.
+- Dyrektor wrocławskiego oddziału GDDKiA został zatrzymany, zawieszony w obowiązkach i usłyszał siedem zarzutów dotyczących nieprawidłowości przy przetargach.
+- Sąd Okręgowy w Warszawie podtrzymał wyrok skazujący opiekuna obozu za tuszowanie pedofilii i namawianie dziecka do zatajenia prawdy.
+- Konduktorka pociągu usłyszała zarzuty spowodowania wypadku ze skutkiem śmiertelnym po tym, jak 70-letnia pasażerka zginęła między peronem a torami w Pabianicach.
+- Policjanci w Elblągu zabezpieczyli ponad 13 kilogramów amfetaminy ukrytej w szafie jednego z mieszkańców.
+- Rada Prezesów Europejskiego Banku Centralnego utrzymała stopy procentowe w strefie euro na niezmienionym poziomie.
 
 ## Polska - biznes i rynki
-- Złoty pozostaje pod silną presją – kurs euro sforsował poziom 4,40 zł, a waluta notuje wieloletnie minima względem głównych walut, czemu sprzyjają m.in. rosnące ceny ropy.
-- Bank Pekao odnotował spadek zysku netto w III kwartale do 1,516 mld zł, co jednak było wynikiem o 3% wyższym od oczekiwań analityków.
-- Zysk netto grupy ING Banku Śląskiego wzrósł w III kwartale do 1,133 mld zł, przebijając prognozy rynkowe o 6,4%.
-- Ministerstwo Finansów sprzedało na przetargu sześć serii obligacji skarbowych za 12 mld zł przy popycie sięgającym 18,48 mld zł.
-- Firmy ZE PAK i SGE podpisały historyczną umowę na budowę sześciu małych reaktorów jądrowych (SMR) w Pątnowie w Wielkopolsce.
-- Polski złoty traci nie tylko do euro, ale również czeska korona osiągnęła najwyższy kurs od trzech lat, znosząc kryzys znacznie lepiej niż polska waluta.
+- Europejski Bank Centralny utrzymał stopy procentowe bez zmian, a jego prezeska Christine Lagarde zapowiedziała odejście ze stanowiska 7 lutego 2027 roku.
+- Minister aktywów państwowych poinformował, że fabryka polimerów w Policach miała być nieopłacalna już na początku inwestycji, w sprawie czego powstanie jawny raport.
+- Kurs euro w relacji ze złotym walczy o utrzymanie poziomu powyżej 4,40 zł, a polska waluta pozostaje pod silną presją rynkową.
+- Ministerstwo Finansów sprzedało na aukcji sześć serii obligacji skarbowych za 12 miliardów złotych przy popycie przekraczającym 18 miliardów złotych.
+- Mennica Polska zamknęła pierwsze trzy kwartały 2026 roku z rekordowymi przychodami wynoszącymi 2,22 mld zł, napędzanymi m.in. sprzedażą mieszkań.
+- GPW Benchmark przedstawił warunki wygaszania wskaźnika WIBOR w nowych umowach po 31 grudnia 2026 roku.
 
 ## Co obserwować dziś
-Dziś warto obserwować reakcje rynków finansowych na napływające raporty kwartalne globalnych gigantów technologicznych oraz krajowe wskaźniki makroekonomiczne.
+Dzisiejsze notowania złotego wobec euro w okolicach poziomu 4,40 zł oraz dalsze reakcje rynków na decyzje banków centralnych.
