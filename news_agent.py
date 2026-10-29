@@ -28,12 +28,16 @@ FEEDS = {
         "https://www.bankier.pl/rss/waluty.xml",
         "https://www.polsatnews.pl/rss/biznes.xml",
     ],
+    "E-MTB - nowości": [
+        "https://ebike-mtb.com/en/feed/",
+        "https://enduro-mtb.com/en/feed/",
+    ],
 }
 
 MAX_PER_FEED = 10
 
 
-# Lokalizacja prognozy - domyślnie Warszawa
+# Lokalizacja prognozy - domyślnie Warszawa (zmień w sekretach/zmiennych lub tutaj)
 CITY = os.environ.get("WEATHER_CITY", "Warszawa")
 LAT = os.environ.get("WEATHER_LAT", "52.2297")
 LON = os.environ.get("WEATHER_LON", "21.0122")
@@ -137,8 +141,15 @@ Przygotuj po polsku zwięzły poranny briefing w formacie Markdown, w tej kolejn
 ## Co obserwować dziś
 Jedno zdanie.
 
+Na samym końcu dodaj dokładnie takie dwa znaczniki (każdy w osobnej linii) wraz z treścią:
+
+@@EMTB_WERDYKT@@
+Werdykt dla właściciela e-MTB: 4-6 zdań po polsku. Oprzyj się WYŁĄCZNIE na sekcji "DANE POGODOWE E-MTB" poniżej, nie zmieniaj liczb i nie dodawaj własnych prognoz. Wskaż, gdzie najlepiej jechać w najbliższy weekend i w kolejny (Warszawa, Szczyrk czy Limone sul Garda), ostrzeż o głównych ryzykach (burze, wiatr, błoto, chłód i krótszy zasięg baterii, krótki dzień) i uczciwie zaznacz, gdy pewność prognozy jest niska lub prognoza jest orientacyjna.
+@@EMTB_NEWS@@
+3-5 punktów po polsku z sekcji "E-MTB - nowości" (testy, nowe modele, silniki, baterie, szlaki, porady). Pomiń reklamy i pozycje niezwiązane z e-MTB. Jeśli brak danych, napisz jedno zdanie.
+
 Zasady: pisz konkretnie, bez wstępów, każdy punkt jako lista punktowana.
-Każdą sekcję opieraj wyłącznie na nagłówkach z odpowiadającej jej sekcji poniżej.
+Każdą sekcję opieraj wyłącznie na danych z odpowiadającej jej sekcji poniżej.
 Nie wymyślaj faktów spoza podanych nagłówków. Jeśli sekcja ma za mało danych, napisz to krótko.
 
 {news}"""
@@ -182,7 +193,50 @@ Nie wymyślaj faktów spoza podanych nagłówków. Jeśli sekcja ma za mało dan
     return None
 
 
-def save_briefing(weather: str, briefing: str) -> None:
+def split_ai(text: str):
+    """Rozdziela odpowiedź AI na: główny briefing, werdykt e-MTB i nowości e-MTB."""
+    main, verdict, emtb_news = text, "", ""
+    if "@@EMTB_WERDYKT@@" in text:
+        main, rest = text.split("@@EMTB_WERDYKT@@", 1)
+        if "@@EMTB_NEWS@@" in rest:
+            verdict, emtb_news = rest.split("@@EMTB_NEWS@@", 1)
+        else:
+            verdict = rest
+    strip_chars = " *\n"
+    return main.strip(strip_chars), verdict.strip(strip_chars), emtb_news.strip(strip_chars)
+
+
+def build_emtb_markdown(data, verdict: str, emtb_news: str) -> str:
+    """Składa całą rubrykę E-MTB w Markdown."""
+    if not data:
+        return ""
+    parts = ["# 🚵 E-MTB - Warszawa, Szczyrk, Limone sul Garda\n"]
+    parts.append("## Ranking najbliższych weekendów\n\n" + data["ranking"] + "\n")
+    parts.append(
+        "_Ocena jazdy 0-100: 🟢 80+ świetnie, 🟡 60-79 dobrze, 🟠 40-59 średnio, 🔴 poniżej 40 słabo._\n"
+    )
+    if verdict:
+        parts.append("## Werdykt\n\n" + verdict + "\n")
+    parts.append("## Szczegóły weekendów\n\n" + data["weekends"])
+    parts.append("## Najbliższe 7 dni\n\n" + data["outlook"])
+    if emtb_news:
+        parts.append("## Nowości ze świata e-MTB\n\n" + emtb_news + "\n")
+    parts.append(
+        "## Jak liczymy prognozę\n\n"
+        f"- Modele: {data['models']}. Wynik to **mediana modeli**, a **pewność** pokazuje, jak bardzo się zgadzają "
+        "(opady tak/nie, rozrzut temperatury i opadów). Powyżej 7 dni prognozy są orientacyjne.\n"
+        "- **Ocena jazdy** to autorski wskaźnik: opad, burze, temperatura, porywy wiatru, śnieg/szron "
+        "oraz wilgotność szlaków (opady z ostatnich 3 dni).\n"
+        "- **Szlaki** to szacunek z opadów, a nie pomiar. **Okno bez deszczu** liczone od 8:00 do zachodu słońca.\n"
+        "- Symbole: ⛈ burze, ❄️ śnieg, 🧊 przymrozek, 🔋chłód (niska temperatura skraca zasięg baterii), 💨 silne porywy, 🥵 upał.\n"
+        "- Przed wyjazdem sprawdź lokalne komunikaty i ewentualne zamknięcia szlaków. "
+        "Dla Szczyrku temperatura jest przeliczona na ok. 800 m n.p.m., dla Limone prognoza dotyczy okolic jeziora "
+        "(wyżej na szlakach bywa chłodniej).\n"
+    )
+    return "\n".join(parts)
+
+
+def save_briefing(weather: str, briefing: str, emtb_md: str = "") -> None:
     """Zapisuje briefing do repozytorium: archiwum (briefings/) i stronę główną (README.md)."""
     today = datetime.now(ZoneInfo("Europe/Warsaw")).date()
 
@@ -195,6 +249,8 @@ def save_briefing(weather: str, briefing: str) -> None:
         f"{weather_md}\n\n---\n\n"
         f"{briefing}\n"
     )
+    if emtb_md:
+        content += f"\n---\n\n{emtb_md}\n"
 
     Path("briefings").mkdir(exist_ok=True)
     Path(f"briefings/{today:%Y-%m-%d}.md").write_text(content, encoding="utf-8")
@@ -208,13 +264,31 @@ if __name__ == "__main__":
         print("Nie udało się pobrać pogody:", e)
         weather = "POGODA - brak danych dzisiaj."
 
-    news = collect_news()
-    briefing = summarize(news)
-    if briefing is None:
-        briefing = (
-            "Streszczenie AI jest dzisiaj niedostępne. Surowe nagłówki:\n\n"
-            + news[:4000]
+    # Rubryka E-MTB (jeśli coś pójdzie nie tak, reszta briefingu i tak się zapisze)
+    emtb_data = None
+    try:
+        import emtb
+        emtb_data = emtb.build_emtb(WMO)
+    except Exception as e:
+        print("Rubryka E-MTB: błąd:", e)
+
+    headlines = collect_news()
+    news_for_ai = headlines
+    if emtb_data:
+        news_for_ai += (
+            "\n\n## DANE POGODOWE E-MTB (obliczone automatycznie, nie zmieniaj liczb)\n"
+            + emtb_data["llm_text"]
         )
 
-    save_briefing(weather, briefing)
+    ai_text = summarize(news_for_ai)
+    verdict, emtb_news = "", ""
+    if ai_text is None:
+        briefing = (
+            "Streszczenie AI jest dzisiaj niedostępne. Surowe nagłówki:\n\n"
+            + headlines[:4000]
+        )
+    else:
+        briefing, verdict, emtb_news = split_ai(ai_text)
+
+    save_briefing(weather, briefing, build_emtb_markdown(emtb_data, verdict, emtb_news))
     print("Zapisano briefing.")
