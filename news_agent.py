@@ -1,4 +1,5 @@
 import os
+import re
 from datetime import date, datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -6,9 +7,9 @@ from zoneinfo import ZoneInfo
 import feedparser
 import requests
 
-# Źródła RSS - możesz dowolnie dodawać/usuwać (sprawdź, czy linki działają)
+# Źródła RSS - możesz dowolnie dodawać/usuwać (sprawdź w logu, czy linki działają)
 FEEDS = {
-    "Rynki": [
+    "Rynki światowe": [
         "https://feeds.bbci.co.uk/news/business/rss.xml",
         "https://www.cnbc.com/id/10000664/device/rss/rss.html",
         "https://feeds.content.dowjones.io/public/rss/mw_topstories",
@@ -16,6 +17,16 @@ FEEDS = {
     "Świat": [
         "https://feeds.bbci.co.uk/news/world/rss.xml",
         "https://www.aljazeera.com/xml/rss/all.xml",
+    ],
+    "Polska - ogólne": [
+        "https://www.polsatnews.pl/rss/polska.xml",
+        "https://tvn24.pl/wiadomosci-z-kraju,3.xml",
+    ],
+    "Polska - biznes i rynki": [
+        "https://www.bankier.pl/rss/wiadomosci.xml",
+        "https://www.bankier.pl/rss/gielda.xml",
+        "https://www.bankier.pl/rss/waluty.xml",
+        "https://www.polsatnews.pl/rss/biznes.xml",
     ],
 }
 
@@ -87,13 +98,15 @@ def collect_news() -> str:
         for url in urls:
             try:
                 resp = requests.get(url, timeout=30, headers={"User-Agent": "Mozilla/5.0"})
+                resp.raise_for_status()
                 feed = feedparser.parse(resp.content)
+                print(f"Źródło OK ({len(feed.entries)} wpisów): {url}")
             except Exception as e:
                 print("Błąd źródła:", url, e)
                 continue
             for entry in feed.entries[:MAX_PER_FEED]:
                 title = entry.get("title", "")
-                summary = entry.get("summary", "")[:300]
+                summary = re.sub(r"<[^>]+>", "", entry.get("summary", ""))[:300]
                 parts.append(f"- {title}: {summary}")
     return "\n".join(parts)
 
@@ -106,14 +119,27 @@ def summarize(news: str):
     """Streszcza wiadomości przez darmowe Gemini API. Zwraca None, gdy nic nie zadziała."""
     import time
 
-    prompt = f"""Poniżej są nagłówki z dzisiejszych wiadomości (rynki oraz świat).
-Przygotuj po polsku zwięzły poranny briefing:
+    prompt = f"""Poniżej są nagłówki z dzisiejszych wiadomości, podzielone na sekcje.
+Przygotuj po polsku zwięzły poranny briefing w formacie Markdown, w tej kolejności:
 
-1. RYNKI - 5-7 najważniejszych punktów (giełdy, waluty, surowce, banki centralne).
-2. ŚWIAT - 5-7 najważniejszych wydarzeń.
-3. Na koniec jedno zdanie: co warto obserwować dziś.
+## Rynki światowe
+5-7 najważniejszych punktów (giełdy, waluty, surowce, banki centralne).
 
-Pisz konkretnie, bez wstępów. Nie wymyślaj faktów spoza podanych nagłówków.
+## Świat
+5-7 najważniejszych wydarzeń.
+
+## Polska - ogólne
+5-7 najważniejszych wydarzeń w kraju (polityka, społeczeństwo, bezpieczeństwo).
+
+## Polska - biznes i rynki
+5-7 najważniejszych punktów (GPW i WIG20, złoty, NBP i RPP, inflacja, spółki, gospodarka).
+
+## Co obserwować dziś
+Jedno zdanie.
+
+Zasady: pisz konkretnie, bez wstępów, każdy punkt jako lista punktowana.
+Każdą sekcję opieraj wyłącznie na nagłówkach z odpowiadającej jej sekcji poniżej.
+Nie wymyślaj faktów spoza podanych nagłówków. Jeśli sekcja ma za mało danych, napisz to krótko.
 
 {news}"""
     api_key = os.environ["GEMINI_API_KEY"]
