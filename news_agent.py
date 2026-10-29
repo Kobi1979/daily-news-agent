@@ -1,7 +1,7 @@
 import os
-import smtplib
-from datetime import date
-from email.mime.text import MIMEText
+from datetime import date, datetime
+from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import feedparser
 import requests
@@ -156,28 +156,29 @@ Pisz konkretnie, bez wstępów. Nie wymyślaj faktów spoza podanych nagłówkó
     return None
 
 
-def send_email(body: str) -> None:
-    user = os.environ["EMAIL_USER"]
-    password = os.environ["EMAIL_PASS"]
-    to = os.environ["EMAIL_TO"]
+def save_briefing(weather: str, briefing: str) -> None:
+    """Zapisuje briefing do repozytorium: archiwum (briefings/) i stronę główną (README.md)."""
+    today = datetime.now(ZoneInfo("Europe/Warsaw")).date()
 
-    msg = MIMEText(body, "plain", "utf-8")
-    msg["Subject"] = f"Briefing: rynki i świat - {date.today():%d.%m.%Y}"
-    msg["From"] = user
-    msg["To"] = to
+    # pogoda jako lista punktów, żeby ładnie wyglądała na GitHubie
+    lines = weather.split("\n")
+    weather_md = f"## {lines[0]}\n\n" + "\n".join(f"- {line}" for line in lines[1:])
 
-    host = os.environ.get("SMTP_HOST", "poczta.interia.pl")
-    port = int(os.environ.get("SMTP_PORT", "465"))
+    content = (
+        f"# Briefing z {today:%d.%m.%Y}\n\n"
+        f"{weather_md}\n\n---\n\n"
+        f"{briefing}\n"
+    )
 
-    with smtplib.SMTP_SSL(host, port, timeout=60) as server:
-        server.login(user, password)
-        server.send_message(msg)
+    Path("briefings").mkdir(exist_ok=True)
+    Path(f"briefings/{today:%Y-%m-%d}.md").write_text(content, encoding="utf-8")
+    Path("README.md").write_text(content, encoding="utf-8")
 
 
 if __name__ == "__main__":
     try:
         weather = get_weather()
-    except Exception as e:  # pogoda nie może zablokować wysyłki wiadomości
+    except Exception as e:  # pogoda nie może zablokować zapisu wiadomości
         print("Nie udało się pobrać pogody:", e)
         weather = "POGODA - brak danych dzisiaj."
 
@@ -189,5 +190,5 @@ if __name__ == "__main__":
             + news[:4000]
         )
 
-    send_email(weather + "\n\n" + "-" * 30 + "\n\n" + briefing)
-    print("Wysłano briefing.")
+    save_briefing(weather, briefing)
+    print("Zapisano briefing.")
