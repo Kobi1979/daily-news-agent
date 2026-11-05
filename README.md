@@ -1,48 +1,49 @@
-# Briefing z 04.11.2026
+# Briefing z 05.11.2026
 
-## POGODA - Warszawa, 04.11.2026
+## POGODA - Warszawa, 05.11.2026
 
 - Pochmurno
-- Temperatura: 4°C do 9°C (odczuwalna 1°C do 6°C)
-- Opady: 0.0 mm, prawdopodobieństwo do 17%
-- Wiatr: do 13 km/h, w porywach 28 km/h
+- Temperatura: 2°C do 9°C (odczuwalna -1°C do 6°C)
+- Opady: 0.0 mm, prawdopodobieństwo do 0%
+- Wiatr: do 18 km/h, w porywach 36 km/h
 - Indeks UV: 2
-- Wschód słońca: 06:36, zachód: 16:01
+- Wschód słońca: 06:38, zachód: 15:59
 
 ---
 
 ## Rynki światowe
-- Zwycięstwo Demokratów w amerykańskich wyborach połówkowych wywołało wyprzedaż na rynkach akcji i spadek rentowności amerykańskich obligacji skarbowych, gdyż inwestorzy szukali bezpiecznych przystani.
-- Spółka Binance ujawniła, że fałszywe rozmowy kwalifikacyjne posłużyły do przeprowadzenia ataku hakerskiego o wartości 6,3 miliarda dolarów, co wzbudziło obawy o bezpieczeństwo portfeli kryptowalutowych.
-- Prezes Blackstone Jon Gray oraz szef Aon Greg Case ostrzegają przed rosnącym ryzykiem koncentracji długu i ograniczeniami ubezpieczeniowymi związanymi z masowymi inwestycjami w infrastrukturę centrów danych AI.
-- Akcje spółek technologicznych znalazły się pod presją – notowania Apple spadły po rozczarowujących wynikach, a Shopify zanotowało zjazd po wynikach poniżej oczekiwań, podczas gdy AMD rosło dzięki realnym przychodom z AI.
-- Platforma Coinbase odnotowała 66% wzrost zysku netto w trzecim kwartale dzięki ożywieniu na rynku kryptowalut, mimo że niektóre fundusze użytkowników Polymarket zostały skradzione przez hakerów.
-- Urzędnicy Rezerwy Federalnej, w tym Alberto Musalem i Lorie Logan, sygnalizują konieczność powrotu do podwyżek stóp procentowych w obliczu dalszego rozwoju sytuacji gospodarczej.
+- Analitycy prognozują pierwszy od ponad trzech lat wzrost stóp procentowych z 3,75% do 4%.
+- Kurs funta osiągnął najwyższy poziom wobec koszyka walut od czasu referendum w sprawie Brexitu przed dekadą.
+- Elon Musk wydał blisko 500 mln USD w amerykańskich wyborach połówkowych w 2026 roku, ustanawiając rekord indywidualnych wydatków.
+- Zysk netto giełdy Coinbase wzrósł w trzecim kwartale o 66% dzięki odbiciu na rynku kryptowalut.
+- Binance poinformowało, że fałszywe rozmowy kwalifikacyjne zostały wykorzystane jako element ataku hakerskiego na kwotę 6,3 mld USD.
+- Rentowność 10-letnich obligacji skarbowych USA spadła, podczas gdy inwestorzy analizowali wyniki wyborów i spadek cen ropy.
+- Wielka Brytania i UE uzgodniły projekt porozumienia mający na celu zniesienie biurokracji związanej z eksportem żywności.
 
 ## Świat
-- Demokraci odnieśli historyczne zwycięstwa w wyborach połówkowych w USA, zdobywając większość w Senacie i Izbie Reprezentantów, co obejmuje m.in. historyczne wygrane w Trakcie i Karolinie Południowej.
-- Hiszpański minister transportu podał się do dymisji zaledwie kilka dni po tragicznym wypadku kolejowym na południe od Madrytu, w którym zginęło co najmniej 69 osób.
-- Prezydent Donald Trump potwierdził przeprowadzenie amerykańskich uderzeń na irański obiekt przeciwlotniczy, podczas gdy Iran określił odpowiedź USA na plan dotyczący Ormuzu jako nieprzekonującą.
-- Północna Korea wystrzeliła kilka pocisków rakietowych oraz odrzuciła oskarżenia USA o udział w historycznej kradzieży kryptowalut z giełdy Binance.
-- Obywatel USA pracujący jako kontrahent przyznał się do przekazania Etiopii poufnych sekretów państwowych ułatwiających polowanie na bojowników z Tigrayu.
+- Wiceprezydent USA skrytykował przegraną Partii Republikańskiej, obwiniając ją za wojnę z Iranem.
+- Joshua Wong, twarz prodemokratycznych protestów w Hongkongu, został skazany na 10 lat więzienia.
+- Władze w Kanadzie poinformowały o śmierci matki i córki w wyniku podejrzanego ataku niedźwiedzia grizzly.
+- Ukraina opublikowała nagranie z kamery policyjnej przedstawiające śmiertelny, podwójny rosyjski ostrzał rakietowy.
+- Prezydent Izraela rozpoczął konsultacje z partiami politycznymi po wyborczym klinczu.
 
 ## Polska - ogólne
-- Z sondażu przeprowadzonego przez Instytut Badań Pollster wynika, że 39 proc. Polaków nie wierzy w koalicję PiS z Grzegorzem Braunem po wyborach w 2027 roku, podczas gdy 28 proc. uważa taki sojusz za możliwy.
-- Rządowe Centrum Bezpieczeństwa wydało alerty dla mieszkańców 11 powiatów w województwie lubelskim w związku z rosyjskim atakiem powietrznym w Ukrainie, które odwołano przed godziną 21:00.
-- Premier Donald Tusk złożył propozycję spotkania w cztery oczy prezydentowi Karolowi Nawrockiemu w celu wypracowania trwałego rozwiązania sporu wokół Trybunału Konstytucyjnego, co spotkało się z krytyką ze strony otoczenia prezydenta.
-- W Warszawie, Gdańsku i Poznaniu odbyły się protesty Komitetu Obrony Demokracji pod hasłem „Światełko dla Trybunału”, wyrażające sprzeciw wobec politycznej ingerencji w wymiar sprawiedliwości.
-- Wszczęto postępowanie dyscyplinarne wobec przewodniczącego związku Policyjna Solidarność Jacka Łukasika po tym, jak skrytykował on działania policji przed gmachem Trybunału Konstytucyjnego.
+- Marco de la Pena zrezygnował ze stanowiska prezesa hiszpańskiej spółki Adif w związku z katastrofą kolejową w Urdzie, w której zginęło 69 osób.
+- Stołeczni policjanci zatrzymali 48-letniego kierowcę, który wiozł ponad 60 litrów płynnego klofedronu oraz kokainę.
+- Wicepremier Bawarii Hubert Aiwanger został znaleziony martwy w hotelu w Berlinie; okoliczności śmierci bada policja.
+- Wołodymyr Zełenski spotkał się ze specjalnymi wysłannikami USA, Steve'em Witkoffem i Jaredem Kushnerem, by rozmawiać o przygotowaniach do trójstronnych negocjacji.
+- Minister sprawiedliwości Waldemar Żurek zapowiedział przekazanie do Kancelarii Prezydenta egzemplarza konstytucji z zaznaczonymi artykułami.
 
 ## Polska - biznes i rynki
-- Zwycięstwo Demokratów w USA i obawy o przyszłość inwestycji w AI wywołały wyprzedaż na globalnych rynkach akcji, co odbiło się również na nastrojach na warszawskim parkiecie.
-- Słabość polskiego złotego pogłębia się w wyniku sporu politycznego wokół Trybunału Konstytucyjnego – kurs franka szwajcarskiego i euro osiągnęły poziomy najwyższe od 3 lat.
-- Premier Donald Tusk złożył kontrasygnatę pod propozycjami powołania czterech nowych członków zarządu Narodowego Banku Polskiego.
-- Sektor bankowy w Polsce zanotował spadek zysku netto w okresie styczeń–wrzesień 2026 roku do poziomu 32,28 mld zł (o 10,5 proc. mniej rdr), jak podał NBP.
-- Nowym prezesem spółki Centralny Port Komunikacyjny został mianowany Piotr Borys, inżynier budownictwa z wieloletnim doświadczeniem zarządczym w strukturach inwestycyjnych.
-- Orlen Upstream Norway odkrył złoża gazu na Morzu Północnym (złoże Afrodyta), których zasoby okazały się ponad dwa razy większe od wcześniejszych założeń.
+- Rada Polityki Pieniężnej zdecydowała o utrzymaniu stóp procentowych na niezmienionym poziomie mimo inflacji CPI powyżej celu NBP.
+- Zysk netto grupy PKO BP w trzecim kwartale 2026 roku wzrosł do 2,93 mld zł, przewyższając oczekiwania analityków o 4,1%.
+- Właściciele Grupy WB Electronics dali zielone wykonać historyczne wejście na Giełdę Papierów Wartościowych w Warszawie.
+- Kurs euro cofnął się ze szczytu, a dolar wyraźnie tanieje w oczekiwaniu na decyzje RPP i pod wpływem sytuacji wokół Trybunału Konstytucyjnego.
+- Frank szwajcarski osiągnął najwyższy poziom od ponad 3 lat ze względu na presję na złotego wywołaną sytuacją wokół Trybunału Konstytucyjnego.
+- Najnowsze prognozy GUS wskazują, że w ciągu dwóch dekad liczba mieszkańców Polski może zmniejszyć się o 8 milionów osób.
 
 ## Co obserwować dziś
-Dziś warto obserwować reakcję rynków finansowych na powyborczą sytuację polityczną w Stanach Zjednoczonych oraz jej wpływ na globalne nastroje giełdowe i notowania polskiego złotego.
+Reakcję rynków na decyzję Rady Polityki Pieniężnej oraz dalsze doniesienia po wyborach połówkowych w USA.
 
 ---
 
@@ -52,44 +53,44 @@ Dziś warto obserwować reakcję rynków finansowych na powyborczą sytuację po
 
 | Weekend | Warszawa | Szczyrk | Limone sul Garda | Najlepszy wybór |
 |---|---|---|---|---|
-| 07.11-08.11 (za 3 dni) | 🟡 70 | 🟡 70 | 🟢 92 | **Limone sul Garda** |
-| 14.11-15.11 (za 10 dni) | 🟡 72 | 🟠 42 | 🟡 78 | **Limone sul Garda** |
+| 07.11-08.11 (za 2 dni) | 🟡 62 | 🟡 66 | 🟢 89 | **Limone sul Garda** |
+| 14.11-15.11 (za 9 dni) | 🟡 72 | 🟠 42 | 🔴 30 | **Warszawa** |
 
 _Ocena jazdy 0-100: 🟢 80+ świetnie, 🟡 60-79 dobrze, 🟠 40-59 średnio, 🔴 poniżej 40 słabo._
 
 ## Werdykt
 
-Najlepszym wyborem na nadchodzący weekend (07-11.11) jest wyjazd do Limone sul Garda, gdzie prognoza wskazuje świetne warunki i temperatury rzędu 9-14°C przy ocenie do 100/100, choć w sobotę pewność prognozy jest niska. W kolejny weekend (14-15.11) Limone sul Garda również wypada najlepiej (do 85/100, szlaki błotniste), podczas gdy w Szczyrku warunki drastycznie spadną do 35-50/100 z ryzykiem przelotnego śniegu i mrozu do -6°C. Głównymi ryzykami w kraju są chłód generujący ryzyko szybszego rozładowania baterii, ujemne temperatury oraz krótki dzień (jazda w oknie 08:00-16:00). Pamiętaj, że pewność prognoz na oba weekendy jest w wielu miejscach niska lub średnia, dlatego plany warto traktować orientacyjnie.
+W najbliższy weekend (07-08.11) najlepiej jechać do Limone sul Garda, gdzie prognoza wskazuje świetne warunki i oceny rzędu 85-93/100, choć pewność jest średnia lub niska, a miejscami pojawia się błoto. W kraju w ten weekend czeka nas spory chłód, ujemne temperatury w nocy oraz ryzyko szybszego rozładowania baterii, przy stabilnej pogodzie w Warszawie i Szczyrku. W kolejny weekend (14-15.11) warunki drastycznie się pogorszą we wszystkich lokalizacjach – w Szczyrku i Limone sul Garda oceny spadną do słabych 30/100 z powodu opadów śniegu lub mżawki, silnego wiatru w Italii oraz niskiej pewności prognoz. Należy bezwzględnie pamiętać o ryzyku mrozów, chłodu skracającego zasięg akumulatora oraz krótkim dniu z ograniczonym oknem czasowym na jazdę.
 
 ## Szczegóły weekendów
 
-### Weekend 07.11-08.11 (za 3 dni)
+### Weekend 07.11-08.11 (za 2 dni)
 
 - **Warszawa**
-  - **Sobota 07.11** - 🟡 **70/100** (dobrze) · Częściowe zachmurzenie 🧊 🔋chłód · -3...6°C · opad 0.0 mm (0%) · porywy 11 km/h · szlaki: suche · okno bez deszczu: 08:00-15:00 · zachód 15:56 · pewność: wysoka
-  - **Niedziela 08.11** - 🟡 **70/100** (dobrze) · Pochmurno 🧊 🔋chłód · -2...6°C · opad 0.0 mm (1%) · porywy 22 km/h · szlaki: suche · okno bez deszczu: 08:00-15:00 · zachód 15:54 · pewność: średnia
+  - **Sobota 07.11** - 🟡 **70/100** (dobrze) · Częściowe zachmurzenie 🧊 🔋chłód · -1...6°C · opad 0.0 mm (0%) · porywy 11 km/h · szlaki: suche · okno bez deszczu: 08:00-15:00 · zachód 15:56 · pewność: wysoka
+  - **Niedziela 08.11** - 🟠 **55/100** (średnio) · Pochmurno 🧊 🔋chłód · -3...5°C · opad 0.0 mm (0%) · porywy 20 km/h · szlaki: suche · okno bez deszczu: 08:00-15:00 · zachód 15:54 · pewność: wysoka
 
 - **Szczyrk**
-  - **Sobota 07.11** - 🟡 **70/100** (dobrze) · Przeważnie słonecznie 🧊 🔋chłód · -2...7°C · opad 0.0 mm (0%) · porywy 22 km/h · szlaki: suche · okno bez deszczu: 08:00-16:00 · zachód 16:12 · pewność: wysoka
-  - **Niedziela 08.11** - 🟡 **70/100** (dobrze) · Pochmurno 🧊 🔋chłód · -2...7°C · opad 0.0 mm (7%) · porywy 27 km/h · szlaki: suche · okno bez deszczu: 08:00-16:00 · zachód 16:10 · pewność: wysoka
+  - **Sobota 07.11** - 🟡 **70/100** (dobrze) · Przeważnie słonecznie 🧊 🔋chłód · -3...6°C · opad 0.0 mm (0%) · porywy 15 km/h · szlaki: suche · okno bez deszczu: 08:00-16:00 · zachód 16:12 · pewność: wysoka
+  - **Niedziela 08.11** - 🟡 **62/100** (dobrze) · Częściowe zachmurzenie 🧊 · -1...8°C · opad 0.0 mm (0%) · porywy 32 km/h · szlaki: suche · okno bez deszczu: 08:00-16:00 · zachód 16:10 · pewność: wysoka
 
 - **Limone sul Garda**
-  - **Sobota 07.11** - 🟢 **85/100** (świetnie) · Lekka mżawka · 10...13°C · opad 1.9 mm (24%) · porywy 18 km/h · szlaki: lekko wilgotne · okno bez deszczu: 08:00-16:00 · zachód 16:55 · pewność: niska
-  - **Niedziela 08.11** - 🟢 **100/100** (świetnie) · Pochmurno · 9...14°C · opad 0.1 mm (25%) · porywy 28 km/h · szlaki: lekko wilgotne · okno bez deszczu: 08:00-16:00 · zachód 16:54 · pewność: wysoka
+  - **Sobota 07.11** - 🟢 **85/100** (świetnie) · Lekka mżawka · 10...12°C · opad 2.9 mm (60%) · porywy 23 km/h · szlaki: lekko wilgotne · okno bez deszczu: 08:00-16:00 · zachód 16:55 · pewność: średnia
+  - **Niedziela 08.11** - 🟢 **93/100** (świetnie) · Mgła · 10...13°C · opad 0.0 mm (9%) · porywy 17 km/h · szlaki: mokre, błoto miejscami · okno bez deszczu: 08:00-16:00 · zachód 16:54 · pewność: niska
 
-### Weekend 14.11-15.11 (za 10 dni)
+### Weekend 14.11-15.11 (za 9 dni)
 
 - **Warszawa**
-  - **Sobota 14.11** - 🟡 **72/100** (dobrze) (orientacyjnie) · Pochmurno 🔋chłód · 0...6°C · opad 0.0 mm (20%) · porywy 37 km/h · szlaki: suche · okno bez deszczu: 08:00-15:00 · zachód 15:45 · pewność: niska
-  - **Niedziela 15.11** - 🟡 **72/100** (dobrze) (orientacyjnie) · Pochmurno 🔋chłód · 4...5°C · opad 0.0 mm (9%) · porywy 30 km/h · szlaki: suche · okno bez deszczu: 08:00-15:00 · zachód 15:43 · pewność: średnia
+  - **Sobota 14.11** - 🟡 **72/100** (dobrze) (orientacyjnie) · Mżawka · 4...9°C · opad 0.8 mm (18%) · porywy 44 km/h · szlaki: mokre, błoto miejscami · okno bez deszczu: 08:00-15:00 · zachód 15:45 · pewność: niska
+  - **Niedziela 15.11** - 🟡 **72/100** (dobrze) (orientacyjnie) · Lekka mżawka · 0...9°C · opad 0.2 mm (13%) · porywy 37 km/h · szlaki: mokre, błoto miejscami · okno bez deszczu: 08:00-15:00 · zachód 15:43 · pewność: średnia
 
 - **Szczyrk**
-  - **Sobota 14.11** - 🔴 **35/100** (słabo) (orientacyjnie) · Przelotny śnieg 🧊 🔋chłód · -2...0°C · opad 0.9 mm (32%) · porywy 36 km/h · szlaki: mokre, błoto miejscami · okno bez deszczu: 08:00-16:00 · zachód 16:02 · pewność: niska
-  - **Niedziela 15.11** - 🟠 **50/100** (średnio) (orientacyjnie) · Pochmurno 🧊 🔋chłód · -6...4°C · opad 0.3 mm (20%) · porywy 17 km/h · szlaki: lekko wilgotne · okno bez deszczu: 08:00-16:00 · zachód 16:00 · pewność: niska
+  - **Sobota 14.11** - 🔴 **30/100** (słabo) (orientacyjnie) · Słaby śnieg 🔋chłód · 2...7°C · opad 3.4 mm (27%) · porywy 35 km/h · szlaki: mokre, błoto miejscami · okno bez deszczu: 08:00-16:00 · zachód 16:02 · pewność: niska
+  - **Niedziela 15.11** - 🟠 **55/100** (średnio) (orientacyjnie) · Mżawka 🧊 · -2...7°C · opad 0.0 mm (22%) · porywy 35 km/h · szlaki: mokre, błoto miejscami · okno bez deszczu: 08:00-16:00 · zachód 16:00 · pewność: niska
 
 - **Limone sul Garda**
-  - **Sobota 14.11** - 🟡 **70/100** (dobrze) (orientacyjnie) · Mżawka · 7...12°C · opad 2.7 mm (36%) · porywy 27 km/h · szlaki: błotniste · okno bez deszczu: 08:00-16:00 · zachód 16:46 · pewność: niska
-  - **Niedziela 15.11** - 🟢 **85/100** (świetnie) (orientacyjnie) · Pochmurno · 6...12°C · opad 0.0 mm (24%) · porywy 24 km/h · szlaki: błotniste · okno bez deszczu: 08:00-16:00 · zachód 16:45 · pewność: średnia
+  - **Sobota 14.11** - 🔴 **30/100** (słabo) (orientacyjnie) · Lekka mżawka 💨 · 12...16°C · opad 4.4 mm (40%) · porywy 52 km/h · szlaki: błotniste · okno bez deszczu: 08:00-14:00 · zachód 16:46 · pewność: niska
+  - **Niedziela 15.11** - 🔴 **30/100** (słabo) (orientacyjnie) · Słabe przelotne opady 💨 · 12...14°C · opad 4.1 mm (40%) · porywy 45 km/h · szlaki: błotniste · okno bez deszczu: 08:00-11:00 · zachód 16:45 · pewność: niska
 
 ## Najbliższe 7 dni
 
@@ -98,45 +99,46 @@ _np. Kampinos, Las Kabacki_
 
 | Dzień | Pogoda | Temp. | Opad | Porywy | Szlaki | Ocena | Pewność |
 |---|---|---|---|---|---|---|---|
-| śr 04.11 | Pochmurno | 2...9°C | 0.1 mm (7%) | 25 km/h | suche | 🟢 92 | wysoka |
-| czw 05.11 | Pochmurno | 1...8°C | 0.0 mm (0%) | 30 km/h | suche | 🟢 84 | wysoka |
-| pt 06.11 | Pochmurno | 2...9°C | 0.0 mm (0%) | 28 km/h | suche | 🟢 92 | średnia |
-| sob 07.11 | Częściowe zachmurzenie 🧊 🔋chłód | -3...6°C | 0.0 mm (0%) | 11 km/h | suche | 🟡 70 | wysoka |
-| niedz 08.11 | Pochmurno 🧊 🔋chłód | -2...6°C | 0.0 mm (1%) | 22 km/h | suche | 🟡 70 | średnia |
-| pon 09.11 | Pochmurno 🧊 🔋chłód | -1...6°C | 0.0 mm (12%) | 18 km/h | suche | 🟡 70 | średnia |
-| wt 10.11 | Lekka mżawka 🔋chłód | 2...5°C | 0.5 mm (26%) | 22 km/h | suche | 🟡 60 | niska |
+| czw 05.11 | Pochmurno 🧊 | -1...9°C | 0.0 mm (0%) | 28 km/h | suche | 🟢 82 | wysoka |
+| pt 06.11 | Pochmurno | 1...9°C | 0.0 mm (0%) | 28 km/h | suche | 🟢 92 | wysoka |
+| sob 07.11 | Częściowe zachmurzenie 🧊 🔋chłód | -1...6°C | 0.0 mm (0%) | 11 km/h | suche | 🟡 70 | wysoka |
+| niedz 08.11 | Pochmurno 🧊 🔋chłód | -3...5°C | 0.0 mm (0%) | 20 km/h | suche | 🟠 55 | wysoka |
+| pon 09.11 | Pochmurno 🧊 🔋chłód | -1...5°C | 0.0 mm (7%) | 22 km/h | suche | 🟡 70 | średnia |
+| wt 10.11 | Przelotny śnieg 🧊 🔋chłód | -0...5°C | 0.0 mm (16%) | 13 km/h | suche | 🟠 55 | niska |
+| śr 11.11 | Pochmurno 🔋chłód | 2...5°C | 0.0 mm (12%) | 30 km/h | suche | 🟢 80 | niska |
 
 ### Szczyrk
 _np. Skrzyczne, Szczyrk Mountain Resort; temperatura przeliczona dla ok. 800 m n.p.m._
 
 | Dzień | Pogoda | Temp. | Opad | Porywy | Szlaki | Ocena | Pewność |
 |---|---|---|---|---|---|---|---|
-| śr 04.11 | Lekka mżawka 🧊 🔋chłód | -0...4°C | 0.1 mm (3%) | 37 km/h | lekko wilgotne | 🟠 47 | wysoka |
-| czw 05.11 | Częściowe zachmurzenie 🧊 🔋chłód | -2...5°C | 0.0 mm (0%) | 18 km/h | suche | 🟡 70 | wysoka |
-| pt 06.11 | Pochmurno 🧊 🔋chłód | -2...4°C | 0.0 mm (1%) | 24 km/h | suche | 🟠 55 | średnia |
-| sob 07.11 | Przeważnie słonecznie 🧊 🔋chłód | -2...7°C | 0.0 mm (0%) | 22 km/h | suche | 🟡 70 | wysoka |
-| niedz 08.11 | Pochmurno 🧊 🔋chłód | -2...7°C | 0.0 mm (7%) | 27 km/h | suche | 🟡 70 | wysoka |
-| pon 09.11 | Lekka mżawka 🧊 🔋chłód 💨 | -1...6°C | 0.1 mm (27%) | 48 km/h | suche | 🟠 50 | średnia |
-| wt 10.11 | Mżawka 🔋chłód | 0...5°C | 1.0 mm (35%) | 22 km/h | suche | 🟠 50 | niska |
+| czw 05.11 | Pochmurno 🧊 🔋chłód | -2...6°C | 0.0 mm (0%) | 20 km/h | suche | 🟡 70 | wysoka |
+| pt 06.11 | Pochmurno 🧊 🔋chłód | -3...4°C | 0.0 mm (0%) | 25 km/h | suche | 🟠 55 | średnia |
+| sob 07.11 | Przeważnie słonecznie 🧊 🔋chłód | -3...6°C | 0.0 mm (0%) | 15 km/h | suche | 🟡 70 | wysoka |
+| niedz 08.11 | Częściowe zachmurzenie 🧊 | -1...8°C | 0.0 mm (0%) | 32 km/h | suche | 🟡 62 | wysoka |
+| pon 09.11 | Pochmurno 🧊 🔋chłód | -2...6°C | 0.0 mm (13%) | 39 km/h | suche | 🟡 62 | wysoka |
+| wt 10.11 | Przelotny śnieg 🧊 🔋chłód | -2...7°C | 0.4 mm (37%) | 26 km/h | suche | 🟡 65 | niska |
+| śr 11.11 | Pochmurno 🔋chłód | 0...5°C | 4.2 mm (25%) | 40 km/h | lekko wilgotne | 🔴 37 | niska |
 
 ### Limone sul Garda
 _np. Tremalzo, Ponale; prognoza dla okolic jeziora, na szlakach powyżej 1000 m bywa o kilka stopni chłodniej_
 
 | Dzień | Pogoda | Temp. | Opad | Porywy | Szlaki | Ocena | Pewność |
 |---|---|---|---|---|---|---|---|
-| śr 04.11 | Lekka mżawka | 10...14°C | 0.1 mm (53%) | 13 km/h | lekko wilgotne | 🟢 100 | wysoka |
-| czw 05.11 | Pochmurno | 9...14°C | 0.0 mm (0%) | 15 km/h | suche | 🟢 100 | wysoka |
-| pt 06.11 | Mżawka | 9...13°C | 0.1 mm (20%) | 13 km/h | suche | 🟢 100 | niska |
-| sob 07.11 | Lekka mżawka | 10...13°C | 1.9 mm (24%) | 18 km/h | lekko wilgotne | 🟢 85 | niska |
-| niedz 08.11 | Pochmurno | 9...14°C | 0.1 mm (25%) | 28 km/h | lekko wilgotne | 🟢 100 | wysoka |
-| pon 09.11 | Lekka mżawka | 9...12°C | 0.3 mm (50%) | 24 km/h | lekko wilgotne | 🟢 95 | niska |
-| wt 10.11 | Umiarkowany deszcz | 11...14°C | 10.7 mm (71%) | 23 km/h | mokre, błoto miejscami | 🔴 33 | niska |
+| czw 05.11 | Pochmurno | 8...14°C | 0.0 mm (0%) | 15 km/h | suche | 🟢 100 | średnia |
+| pt 06.11 | Mżawka | 9...12°C | 2.0 mm (62%) | 22 km/h | lekko wilgotne | 🟢 85 | niska |
+| sob 07.11 | Lekka mżawka | 10...12°C | 2.9 mm (60%) | 23 km/h | lekko wilgotne | 🟢 85 | średnia |
+| niedz 08.11 | Mgła | 10...13°C | 0.0 mm (9%) | 17 km/h | mokre, błoto miejscami | 🟢 93 | niska |
+| pon 09.11 | Lekka mżawka | 9...13°C | 0.8 mm (37%) | 27 km/h | lekko wilgotne | 🟢 95 | średnia |
+| wt 10.11 | Słaby deszcz | 9...12°C | 2.1 mm (54%) | 30 km/h | lekko wilgotne | 🟡 77 | niska |
+| śr 11.11 | Pochmurno | 10...15°C | 0.2 mm (54%) | 17 km/h | lekko wilgotne | 🟢 95 | niska |
 
 ## Nowości ze świata e-MTB
 
-- Producenci motocykli wchodzą w segment e-MTB – Honda zaprezentowała swój pierwszy model RN0 we współpracy z Rotwild, wyposażony w motorowo-motocyklową specyfikację i wagę ok. 24 kg.
-- Rynek SUV eBike’ów na rok 2026 mocno się rozwija, a w testach porównawczych pojawiają się zarówno zaawansowane modele z automatycznymi przerzutkami i dużymi bateriami (np. Riese & Müller, Bulls, Conway), jak i tańsze konstrukcje agresywnie wyceniane od 3499 euro (Amflow TL Carbon).
-- Specjaliści od testów sprzętu biorą na warsztat nowe rozwiązania z zakresu ochrony i oświetlenia, w tym lekkie kaski enduro z systemem MIPS Spherical (Giro Montaro Pro, MET Parachute MCR 2) oraz potężne lampki kierownicze o mocy 3000 lumenów do jazdy po zmroku (Black Diamond Megawatt).
+- Honda nawiązała współpracę z marką ROTWILD, tworząc nowy model e-MTB Honda RN0 o wadze ok. 24 kg, wyposażony w motocyklowe DNA i sprzedawany przez salony motocyklowe.
+- Amflow TL Carbon wszedł do testów z napędem Avinox, akumulatorem 800 Wh oraz wagą systemu do 200 kg przy cenie 3499 euro.
+- Producenci akcentują rozwój uniwersalnych modeli SUV e-bike na rok 2026, takich jak Riese & Superdelite5 z baterią 1,200 Wh czy wyposażony w napęd Pinion MGU i automatyczną zmianę biegów Bulls Vuca Evo FS 2.
+- Magazyny branżowe testują nowe rozwiązania kasków na rower elektryczny, w tym model MET Parachute MCR 2 z funkcją konwersji czy Giro Montaro Pro z technologią MIPS Spherical.
 
 ## Jak liczymy prognozę
 
