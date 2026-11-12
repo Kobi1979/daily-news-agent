@@ -1,48 +1,50 @@
-# Briefing z 11.11.2026
+# Briefing z 12.11.2026
 
-## POGODA - Warszawa, 11.11.2026
+## POGODA - Warszawa, 12.11.2026
 
 - Lekka mżawka
-- Temperatura: 0°C do 3°C (odczuwalna -3°C do 0°C)
-- Opady: 0.5 mm, prawdopodobieństwo do 2%
-- Wiatr: do 16 km/h, w porywach 33 km/h
-- Indeks UV: 1
-- Wschód słońca: 06:49, zachód: 15:49
+- Temperatura: 1°C do 6°C (odczuwalna -3°C do 4°C)
+- Opady: 1.1 mm, prawdopodobieństwo do 90%
+- Wiatr: do 12 km/h, w porywach 23 km/h
+- Indeks UV: 0
+- Wschód słońca: 06:51, zachód: 15:48
 
 ---
 
 ## Rynki światowe
-- Producent chatbota Claude przygotowuje się do debiutu giełdowego o wartości 1,3 biliona dolarów, oferując akcje po 70-78 USD, czyli poniżej oczekiwań.
-- Nvidia zatrudniła amerykańską kancelarię prawną do zbadania rzekomej afery szpiegowskiej z udziałem prezesa Jensena Huanga i kobiety uważanej za chińską agentkę.
-- Inflacja w USA w październiku okazała się wyższa od oczekiwań – ceny wzrosły o 0,4% w ujęciu miesięcznym pod wpływem kosztów mieszkań, żywności i energii.
-- Gubernator Fedu Waller sygnalizuje, że podwyżka stóp procentowych w grudniu jest prawdopodobna i otwiera drzwi do ruchu o pół punktu procentowego.
-- Akcje i rentowności obligacji pod presją: giełdy spadają, a rentowność 10-letnich obligacji skarbowych USA zbliża się do poziomu 5%.
-- Ceny gazu w USA spadły poniżej 4 USD po raz pierwszy od lipca, dając pewną ulgę kierowcom.
+- Akcje Nvidii zanurkowały o 8% po doniesieniach o możliwym odwołaniu CEO Jensena Huanga przez zarząd po domniemanym romansie z chińską agentką.
+- Bank Centralny USA rozważa dalsze podwyżki stóp procentowych po wyższym od oczekiwań odczycie inflacji CPI w październiku.
+- Rynki预测 (prediction markets) platformy Polymarket odnotowały roczne przychody przekraczające 1,8 miliarda dolarów.
+- Ceny amerykańskiej benzyny spadły poniżej 4 dolarów za galon po raz pierwszy od lipca.
+- Berkshire Hathaway ponad dwukrotnie zwiększyło skup własnych akcji w trzecim kwartale w obliczu spadku zysków.
+- Alibaba zapowiedziała plany debiutu giełdowego swojej spółki T-Head, będącej rywalem Nvidii w segmencie chipów.
 
 ## Świat
-- Trzy osoby powiązane z Iranem zostały oskarżone przez USA o planowanie ataków, w tym incydentu w brytyjskiej bazie wojskowej RAF Fairford.
-- Amerykański żołnierz podejrzany o szpiegostwo na rzecz Rosji został aresztowany w Wielkiej Brytanii i jest przesłuchiwany w Londynie.
-- Izba Reprezentantów USA zablokowała na razie próbę postawienia w stan oskarżenia sekretarza obrony Pete'a Hegsetha, co Trump nazwał sukcesem.
-- Sąd w Trynidad i Tobago ostatecznie orzekł o unieważnieniu przestarzałych ustaw antyhomoseksualnych po 11-letniej batalii prawnej.
-- Dziewięciu członków rodziny Kennedych wniosło pozew w celu zablokowania budowy łuku Trumpa, argumentując, że rzuciłby on cień na grób J.F. Kennediego.
-- W nowym parlamencie Izraela rozpoczęła się rywalizacja o sformowanie rządu, a liderzy walczą o odepchnięcie od władzy Benjamina Netanjahu.
+- Ukraiński system elektroenergetyczny znalazł się w stanie bliskim krytycznego z powodu rosyjskich ostrzałów wywołujących ciemności i mróz.
+- W Abu Zabi zakończyły się dwustronne/trójstronne rozmowy Ukrainy, Rosji i USA na temat bezpieczeństwa po wojnie, które nie przyniosły przełomu.
+- Scott Colom odniósł historyczne zwycięstwo w wyborach do Senatu USA w Mississippi jako pierwszy czarnoskóry polityk z tego stanu od ponad 140 lat.
+- Izraelski nalot na szpital Nasser w Gazie zabił co najmniej pięć osób w oddziale chirurgicznym i ranił co najmniej 20 kolejnych.
+- Co najmniej dwie osoby zginęły w wyniku zawalenia się trzypiętrowego budynku w nowojorskim Brooklynie.
+- Dziesiątki tysięcy ludzi wzięły udział w strajku generalnym w Barcelonie, protestując przeciwko wysokim kosztom utrzymania i kryzysowi mieszkaniowemu.
 
 ## Polska - ogólne
-- Prokuratura ujawnia nowe informacje ze śledztwa po tragicznym zamachu na Rynku Głównym w Krakowie, gdzie w pięciu szpitalach przebywa nadal 12 rannych.
-- Minister obrony narodowej Władysław Kosiniak-Kamysz spotkał się w Waszyngtonie z szefem Pentagonu Petem Hegsethem, rozmawiając m.in. o stałej obecności wojsk USA w Polsce.
-- Orlen podjął decyzję o wypowiedzeniu jednej z dwóch umów długoterminowych na dostawy skroplonego gazu ziemnego (LNG) z katarskim QatarEnergy.
-- Wzrosło napięcie wokół systemów państwowych – wicepremier i minister cyfryzacji Krzysztof Gawkowski poinformował o wykrytym i zatrzymanym cyberataku na system ePUAP.
-- Thomas Markle, ojciec księżnej Meghan, został osadzony w areszcie federalnym w USA po tym, jak miał usunąć opaskę monitorującą w ramach aresztu domowego.
+- Stołeczna policja zatrzymała 59 osób podczas obchodów Narodowego Święta Niepodległości, głównie za złamanie przepisów pirotechnicznych.
+- Frekwencja na tegorocznym Marszu Niepodległości w Warszawie wyniosła zdaniem Stołecznego Centrum Bezpieczeństwa do 250 tysięcy osób.
+- Służby zabezpieczyły broń 41-latka ze Złotoryji, który w mediach społecznościowych groził szefowi MSWiA Marcinowi Kierwińskiemu i jego dzieciom.
+- Minister kultury Marta Cienkowska ogłosiła podczas Święta Niepodległości, że w Gorlicach powstanie Muzeum Pierwszej Wojny Światowej.
+- Stan postrzelonego policjanta Artura Morańskiego po zabiegu rewizji ran w Krakowie lekarze określają jako ciężki, ale stabilny.
+- Były prezydent Bronisław Komorowski skrytykował wystąpienie Karola Nawrockiego pod adresem Andrzeja Domańskiego, zarzucając mu brak „politycznej kindersztuby”.
 
 ## Polska - biznes i rynki
-- III kwartał 2026 r. przyniósł wyhamowanie wzrostu średnich cen transakcyjnych na rynku nieruchomości i dłuższy czas oczekiwania na kupca, poprawiając pozycję negocjacyjną kupujących.
-- Ministerstwo Rodziny i Polityki Społecznej ogłosiło limity wpłat na IKE, IKZE oraz OIPE na 2027 rok, pozwalające ulokować łącznie ponad 72 tys. zł bez podatku Belki.
-- Złoty odrabiał straty po wcześniejszej panice, korzystając ze spadku cen ropy naftowej i globalnej poprawy nastrojów, a kurs euro utrzymał się poniżej 4,40 zł.
-- Narodowy Bank Polski opublikował stanowisko ws. wniosku Komisji Odpowiedzialności Konstytucyjnej o pociągnięcie prezesa NBP Adama Glapińskiego do odpowiedzialności przed Trybunałem Stanu.
-- S&P Global Ratings obniżył perspektywę Banku Pekao do negatywnej, co jest bezpośrednią konsekwencją wcześniejszej zmiany ratingu Polski.
+- Agencja S&P utrzymała rating Polski na poziomie A-, ale obniżyła jego perspektywę do negatywnej.
+- Allegro podało wyniki za III kwartał powyżej oczekiwań (skorygowana EBITDA 1,13 mld zł) i podniosło całoroczne prognozy na 2026 rok.
+- Allegro i InPost podpisały nową umowę ramową do końca 2031 roku na usługi dostaw poza domem o minimalnej wartości 8 mld zł.
+- Narodowy Bank Polski zgromadził już 700 ton złota, realizując cel ogłoszony w styczniu – poinformował prezes NBP Adam Glapiński.
+- Kurs euro spadł poniżej 4,40 zł, najniżej od ponad dwóch tygodni, dzięki poprawie nastrojów i spadkom cen ropy.
+- Rada Polityki Pieniężnej utrzymała stopy procentowe na niezmienionym poziomie, mimo utrzymującej się inflacji powyżej celu.
 
 ## Co obserwować dziś
-Dziś warto zwrócić uwagę na krajowe dane makroekonomiczne oraz reakcje rynków na sytuację wokół surowców energetycznych i polityki banków centralnych.
+Reakcję rynków finansowych na doniesienia o sytuacji w Nvidii oraz krajowe dane makroekonomiczne.
 
 ---
 
@@ -52,44 +54,44 @@ Dziś warto zwrócić uwagę na krajowe dane makroekonomiczne oraz reakcje rynk�
 
 | Weekend | Warszawa | Szczyrk | Limone sul Garda | Najlepszy wybór |
 |---|---|---|---|---|
-| 14.11-15.11 (za 3 dni) | 🟡 67 | 🔴 30 | 🟡 74 | **Limone sul Garda** |
-| 21.11-22.11 (za 10 dni) | 🟡 78 | 🟡 74 | 🟡 62 | **Warszawa** |
+| 14.11-15.11 (za 2 dni) | 🟡 61 | 🔴 16 | 🟡 77 | **Limone sul Garda** |
+| 21.11-22.11 (za 9 dni) | 🟠 57 | 🔴 31 | 🟢 100 | **Limone sul Garda** |
 
 _Ocena jazdy 0-100: 🟢 80+ świetnie, 🟡 60-79 dobrze, 🟠 40-59 średnio, 🔴 poniżej 40 słabo._
 
 ## Werdykt
 
-W najbliższy weekend (14-15.11) najlepiej wybrać Limone sul Garda, gdzie ocena jazdy wynosi stabilne 72-77/100 przy temperaturach 6-11°C, choć miejscami wystąpią błotniste szlaki. W Szczyrku warunki będą słabe lub średnie (ocena 20-40/100) z powodu ujemnych temperatur i ryzyka oblodzenia, natomiast w Warszawie prognozowane jest chłodne 1-7°C z lekką mżawką. W kolejny weekend (21-22.11) sytuacja wyrówna się, a najwyżej oceniana będzie Warszawa w niedzielę z wynikiem 87/100 i temperaturą do 9°C. Głównymi ryzykami dla rowerzystów w tym okresie są chłód obniżający zasięg baterii, ryzyko burz i porywistego wiatru, błoto na szlakach oraz krótki dzień. Należy pamiętać, że pewność prognoz na oba weekendy bywa niska lub średnia, więc warunki mają charakter orientacyjny.
+W najbliższy weekend (14-15.11) najlepiej jechać do Limone sul Garda, gdzie ocena jazdy wynosi solidne 77/100 przy temperaturach 7-12°C i wysokiej pewności prognozy. W Szczyrku i Warszawie warunki są słabe lub średnie (oceny 0-60), ze względu na chłód, ryzyko zamarzania i błotniste lub wilgotne szlaki. W kolejny weekend (21-22.11) Limone sul Garda bezkonkurencyjnie dominuje z oceną 100/100 i stabilnymi warunkami, podczas gdy w Polsce prognozowany jest przelotny śnieg, mżawka i ujemne temperatury rano. Głównymi ryzykami dla e-MTB są w tym okresie chłód drastycznie skracający zasięg baterii, ryzyko poślizgów na lodzie i błocie, silny wiatr oraz bardzo krótki dzień (okna jazdy zamykają się wczesnym popołudniem). Należy pamiętać, że pewność prognoz na drugi weekend jest średnia lub niska, więc sytuacja w kraju może się dynamicznie zmienić.
 
 ## Szczegóły weekendów
 
-### Weekend 14.11-15.11 (za 3 dni)
+### Weekend 14.11-15.11 (za 2 dni)
 
 - **Warszawa**
-  - **Sobota 14.11** - 🟡 **72/100** (dobrze) · Lekka mżawka 🔋chłód · 1...6°C · opad 0.1 mm (1%) · porywy 45 km/h · szlaki: lekko wilgotne · okno bez deszczu: 08:00-15:00 · zachód 15:45 · pewność: wysoka
-  - **Niedziela 15.11** - 🟡 **62/100** (dobrze) · Pochmurno 🧊 🔋chłód · -1...7°C · opad 0.0 mm (0%) · porywy 33 km/h · szlaki: lekko wilgotne · okno bez deszczu: 08:00-15:00 · zachód 15:43 · pewność: średnia
+  - **Sobota 14.11** - 🟡 **60/100** (dobrze) · Pochmurno 🔋chłód 💨 · 2...6°C · opad 0.0 mm (1%) · porywy 46 km/h · szlaki: lekko wilgotne · okno bez deszczu: 08:00-15:00 · zachód 15:45 · pewność: średnia
+  - **Niedziela 15.11** - 🟡 **62/100** (dobrze) · Pochmurno 🧊 🔋chłód · -0...7°C · opad 0.0 mm (0%) · porywy 32 km/h · szlaki: lekko wilgotne · okno bez deszczu: 08:00-15:00 · zachód 15:43 · pewność: średnia
 
 - **Szczyrk**
-  - **Sobota 14.11** - 🟠 **40/100** (średnio) · Pochmurno 🧊 🔋chłód · -3...3°C · opad 0.0 mm (20%) · porywy 29 km/h · szlaki: błotniste · okno bez deszczu: 08:00-16:00 · zachód 16:02 · pewność: wysoka
-  - **Niedziela 15.11** - 🔴 **20/100** (słabo) · Pochmurno 🧊 🔋chłód 💨 · -3...5°C · opad 0.0 mm (0%) · porywy 47 km/h · szlaki: błotniste · okno bez deszczu: 08:00-16:00 · zachód 16:00 · pewność: wysoka
+  - **Sobota 14.11** - 🔴 **32/100** (słabo) · Pochmurno 🧊 🔋chłód · -3...3°C · opad 0.0 mm (13%) · porywy 32 km/h · szlaki: błotniste · okno bez deszczu: 08:00-16:00 · zachód 16:02 · pewność: wysoka
+  - **Niedziela 15.11** - 🔴 **0/100** (słabo) · Częściowe zachmurzenie 🧊 🔋chłód 💨 · -2...5°C · opad 0.0 mm (1%) · porywy 64 km/h · szlaki: błotniste · okno bez deszczu: 08:00-11:00 · zachód 16:00 · pewność: wysoka
 
 - **Limone sul Garda**
-  - **Sobota 14.11** - 🟡 **77/100** (dobrze) · Pochmurno · 8...11°C · opad 0.0 mm (7%) · porywy 19 km/h · szlaki: błotniste · okno bez deszczu: 08:00-16:00 · zachód 16:46 · pewność: wysoka
-  - **Niedziela 15.11** - 🟡 **72/100** (dobrze) · Lekka mżawka · 6...10°C · opad 0.5 mm (28%) · porywy 20 km/h · szlaki: błotniste · okno bez deszczu: 08:00-16:00 · zachód 16:45 · pewność: średnia
+  - **Sobota 14.11** - 🟡 **77/100** (dobrze) · Słabe przelotne opady · 7...12°C · opad 0.0 mm (7%) · porywy 21 km/h · szlaki: błotniste · okno bez deszczu: 08:00-16:00 · zachód 16:46 · pewność: wysoka
+  - **Niedziela 15.11** - 🟡 **77/100** (dobrze) · Lekka mżawka · 7...11°C · opad 0.0 mm (26%) · porywy 23 km/h · szlaki: błotniste · okno bez deszczu: 08:00-16:00 · zachód 16:45 · pewność: średnia
 
-### Weekend 21.11-22.11 (za 10 dni)
+### Weekend 21.11-22.11 (za 9 dni)
 
 - **Warszawa**
-  - **Sobota 21.11** - 🟡 **69/100** (dobrze) (orientacyjnie) · Lekka mżawka · 4...8°C · opad 1.6 mm (20%) · porywy 34 km/h · szlaki: lekko wilgotne · okno bez deszczu: 08:00-15:00 · zachód 15:36 · pewność: niska
-  - **Niedziela 22.11** - 🟢 **87/100** (świetnie) (orientacyjnie) · Lekka mżawka · 4...9°C · opad 0.2 mm (23%) · porywy 14 km/h · szlaki: lekko wilgotne · okno bez deszczu: 08:00-15:00 · zachód 15:35 · pewność: średnia
+  - **Sobota 21.11** - 🟠 **57/100** (średnio) (orientacyjnie) · Lekka mżawka 🔋chłód · 3...6°C · opad 1.4 mm (22%) · porywy 41 km/h · szlaki: lekko wilgotne · okno bez deszczu: 08:00-15:00 · zachód 15:36 · pewność: średnia
+  - **Niedziela 22.11** - 🟠 **57/100** (średnio) (orientacyjnie) · Przelotny śnieg 🔋chłód · 2...6°C · opad 1.4 mm (16%) · porywy 41 km/h · szlaki: lekko wilgotne · okno bez deszczu: 08:00-15:00 · zachód 15:35 · pewność: niska
 
 - **Szczyrk**
-  - **Sobota 21.11** - 🟡 **75/100** (dobrze) (orientacyjnie) · Lekka mżawka 🔋chłód · 2...6°C · opad 0.6 mm (38%) · porywy 27 km/h · szlaki: lekko wilgotne · okno bez deszczu: 08:00-15:00 · zachód 15:54 · pewność: niska
-  - **Niedziela 22.11** - 🟡 **72/100** (dobrze) (orientacyjnie) · Lekka mżawka · 1...8°C · opad 0.0 mm (37%) · porywy 36 km/h · szlaki: lekko wilgotne · okno bez deszczu: 08:00-15:00 · zachód 15:53 · pewność: średnia
+  - **Sobota 21.11** - 🟠 **42/100** (średnio) (orientacyjnie) · Lekka mżawka 🧊 🔋chłód · -2...3°C · opad 0.6 mm (32%) · porywy 42 km/h · szlaki: lekko wilgotne · okno bez deszczu: 08:00-15:00 · zachód 15:54 · pewność: niska
+  - **Niedziela 22.11** - 🔴 **20/100** (słabo) (orientacyjnie) · Przelotny śnieg 🧊 🔋chłód 💨 · -2...4°C · opad 1.8 mm (30%) · porywy 49 km/h · szlaki: lekko wilgotne · okno bez deszczu: 08:00-10:00 · zachód 15:53 · pewność: niska
 
 - **Limone sul Garda**
-  - **Sobota 21.11** - 🟡 **65/100** (dobrze) (orientacyjnie) · Mżawka · 8...14°C · opad 4.8 mm (23%) · porywy 16 km/h · szlaki: lekko wilgotne · okno bez deszczu: 08:00-16:00 · zachód 16:40 · pewność: niska
-  - **Niedziela 22.11** - 🟠 **58/100** (średnio) (orientacyjnie) · Mżawka · 9...13°C · opad 3.6 mm (22%) · porywy 22 km/h · szlaki: mokre, błoto miejscami · okno bez deszczu: 08:00-16:00 · zachód 16:39 · pewność: niska
+  - **Sobota 21.11** - 🟢 **100/100** (świetnie) (orientacyjnie) · Mgła · 8...14°C · opad 0.0 mm (8%) · porywy 23 km/h · szlaki: lekko wilgotne · okno bez deszczu: 08:00-16:00 · zachód 16:40 · pewność: średnia
+  - **Niedziela 22.11** - 🟢 **100/100** (świetnie) (orientacyjnie) · Lekka mżawka · 6...13°C · opad 0.0 mm (22%) · porywy 25 km/h · szlaki: suche · okno bez deszczu: 08:00-16:00 · zachód 16:39 · pewność: średnia
 
 ## Najbliższe 7 dni
 
@@ -98,46 +100,46 @@ _np. Kampinos, Las Kabacki_
 
 | Dzień | Pogoda | Temp. | Opad | Porywy | Szlaki | Ocena | Pewność |
 |---|---|---|---|---|---|---|---|
-| śr 11.11 | Pochmurno 🔋chłód | 0...3°C | 0.0 mm (8%) | 32 km/h | mokre, błoto miejscami | 🟠 50 | niska |
-| czw 12.11 | Mżawka 🔋chłód | 0...6°C | 2.0 mm (61%) | 25 km/h | mokre, błoto miejscami | 🟠 58 | niska |
-| pt 13.11 | Lekka mżawka 🔋chłód | 2...6°C | 0.7 mm (70%) | 44 km/h | lekko wilgotne | 🟡 67 | niska |
-| sob 14.11 | Lekka mżawka 🔋chłód | 1...6°C | 0.1 mm (1%) | 45 km/h | lekko wilgotne | 🟡 72 | wysoka |
-| niedz 15.11 | Pochmurno 🧊 🔋chłód | -1...7°C | 0.0 mm (0%) | 33 km/h | lekko wilgotne | 🟡 62 | średnia |
-| pon 16.11 | Lekka mżawka | 1...8°C | 1.4 mm (9%) | 36 km/h | suche | 🟠 57 | średnia |
-| wt 17.11 | Słabe przelotne opady | 4...8°C | 4.0 mm (34%) | 39 km/h | lekko wilgotne | 🔴 37 | niska |
+| czw 12.11 | Lekka mżawka 🔋chłód | 0...7°C | 2.3 mm (76%) | 24 km/h | mokre, błoto miejscami | 🟠 58 | niska |
+| pt 13.11 | Lekka mżawka 🔋chłód 💨 | 3...6°C | 0.9 mm (91%) | 45 km/h | mokre, błoto miejscami | 🟠 48 | niska |
+| sob 14.11 | Pochmurno 🔋chłód 💨 | 2...6°C | 0.0 mm (1%) | 46 km/h | lekko wilgotne | 🟡 60 | średnia |
+| niedz 15.11 | Pochmurno 🧊 🔋chłód | -0...7°C | 0.0 mm (0%) | 32 km/h | lekko wilgotne | 🟡 62 | średnia |
+| pon 16.11 | Pochmurno | 1...8°C | 0.0 mm (17%) | 42 km/h | suche | 🟡 72 | wysoka |
+| wt 17.11 | Pochmurno 💨 | 3...8°C | 1.6 mm (37%) | 56 km/h | suche | 🟠 57 | niska |
+| śr 18.11 | Lekka mżawka | 4...10°C | 1.6 mm (38%) | 28 km/h | lekko wilgotne | 🟡 77 | niska |
 
 ### Szczyrk
 _np. Skrzyczne, Szczyrk Mountain Resort; temperatura przeliczona dla ok. 800 m n.p.m._
 
 | Dzień | Pogoda | Temp. | Opad | Porywy | Szlaki | Ocena | Pewność |
 |---|---|---|---|---|---|---|---|
-| śr 11.11 | Słaby deszcz 🧊 🔋chłód | -2...5°C | 4.2 mm (92%) | 42 km/h | mokre, błoto miejscami | 🔴 5 | średnia |
-| czw 12.11 | Słabe przelotne opady 💨 | 3...7°C | 4.6 mm (91%) | 45 km/h | błotniste | 🔴 10 | średnia |
-| pt 13.11 | Umiarkowany śnieg ❄️ 🧊 🔋chłód | -2...4°C | 14.7 mm (100%) | 38 km/h | śnieg | 🔴 0 | średnia |
-| sob 14.11 | Pochmurno 🧊 🔋chłód | -3...3°C | 0.0 mm (20%) | 29 km/h | błotniste | 🟠 40 | wysoka |
-| niedz 15.11 | Pochmurno 🧊 🔋chłód 💨 | -3...5°C | 0.0 mm (0%) | 47 km/h | błotniste | 🔴 20 | wysoka |
-| pon 16.11 | Lekka mżawka 💨 | 1...8°C | 0.3 mm (16%) | 60 km/h | mokre, błoto miejscami | 🔴 28 | średnia |
-| wt 17.11 | Mżawka 🔋chłód 💨 | 2...7°C | 3.5 mm (36%) | 67 km/h | lekko wilgotne | 🔴 5 | niska |
+| czw 12.11 | Słabe przelotne opady | 3...8°C | 7.0 mm (97%) | 42 km/h | błotniste | 🔴 22 | średnia |
+| pt 13.11 | Silny śnieg ❄️ 🧊 🔋chłód | -1...5°C | 13.9 mm (100%) | 41 km/h | śnieg | 🔴 0 | niska |
+| sob 14.11 | Pochmurno 🧊 🔋chłód | -3...3°C | 0.0 mm (13%) | 32 km/h | błotniste | 🔴 32 | wysoka |
+| niedz 15.11 | Częściowe zachmurzenie 🧊 🔋chłód 💨 | -2...5°C | 0.0 mm (1%) | 64 km/h | błotniste | 🔴 0 | wysoka |
+| pon 16.11 | Pochmurno 🔋chłód 💨 | 1...7°C | 0.3 mm (27%) | 77 km/h | mokre, błoto miejscami | 🔴 28 | niska |
+| wt 17.11 | Gęsta mżawka 🔋chłód 💨 | 1...6°C | 1.1 mm (48%) | 63 km/h | suche | 🔴 25 | niska |
+| śr 18.11 | Lekka mżawka 🔋chłód 💨 | 3...6°C | 2.5 mm (41%) | 57 km/h | lekko wilgotne | 🟠 45 | niska |
 
 ### Limone sul Garda
 _np. Tremalzo, Ponale; prognoza dla okolic jeziora, na szlakach powyżej 1000 m bywa o kilka stopni chłodniej_
 
 | Dzień | Pogoda | Temp. | Opad | Porywy | Szlaki | Ocena | Pewność |
 |---|---|---|---|---|---|---|---|
-| śr 11.11 | Słaby deszcz | 11...14°C | 1.0 mm (68%) | 14 km/h | lekko wilgotne | 🟢 85 | niska |
-| czw 12.11 | Przelotne opady | 13...14°C | 19.7 mm (100%) | 29 km/h | błotniste | 🔴 25 | niska |
-| pt 13.11 | Słaby deszcz | 10...15°C | 6.6 mm (89%) | 36 km/h | błotniste | 🟠 42 | średnia |
-| sob 14.11 | Pochmurno | 8...11°C | 0.0 mm (7%) | 19 km/h | błotniste | 🟡 77 | wysoka |
-| niedz 15.11 | Lekka mżawka | 6...10°C | 0.5 mm (28%) | 20 km/h | błotniste | 🟡 72 | średnia |
-| pon 16.11 | Przelotne opady | 8...11°C | 1.6 mm (45%) | 15 km/h | lekko wilgotne | 🟡 77 | niska |
-| wt 17.11 | Słabe przelotne opady | 8...13°C | 2.6 mm (53%) | 17 km/h | lekko wilgotne | 🟢 85 | niska |
+| czw 12.11 | Umiarkowany deszcz | 13...15°C | 20.8 mm (100%) | 39 km/h | błotniste | 🔴 17 | średnia |
+| pt 13.11 | Słaby deszcz | 10...15°C | 6.5 mm (93%) | 40 km/h | błotniste | 🟠 42 | niska |
+| sob 14.11 | Słabe przelotne opady | 7...12°C | 0.0 mm (7%) | 21 km/h | błotniste | 🟡 77 | wysoka |
+| niedz 15.11 | Lekka mżawka | 7...11°C | 0.0 mm (26%) | 23 km/h | błotniste | 🟡 77 | średnia |
+| pon 16.11 | Słaby deszcz | 8...11°C | 15.7 mm (67%) | 24 km/h | mokre, błoto miejscami | 🔴 25 | niska |
+| wt 17.11 | Lekka mżawka | 8...13°C | 1.8 mm (54%) | 28 km/h | błotniste | 🟡 70 | niska |
+| śr 18.11 | Słaby deszcz | 8...15°C | 3.0 mm (54%) | 20 km/h | błotniste | 🟠 50 | niska |
 
 ## Nowości ze świata e-MTB
 
-- Shimano zaprezentowało nową flagową jednostkę napędową EP810 o wadze 2,3 kg, oferującą moment obrotowy do 100 Nm i 750 W mocy szczytowej.
-- Orbea zapowiedziała trzecią generację modelu Rise LT na 2027 rok, wyposażoną w nowy, lżejszy silnik Shimano EP810 RS oraz zmodyfikowane zawieszenie.
-- Czarna strona kolarstwa górskiego: branża mierzy się z problemem rosnących cen rowerów, skomplikowanej technologii i ryzyka kontuzji.
-- Black Diamond poszerzył ofertę o zaawansowaną lampkę kierowniczą Megawatt o mocy 3,000 lumenów, ułatwiającą jazdę po zmroku.
+- Shimano zaprezentowało nową flagową jednostkę eMTB EP810 o wadze 2,3 kg, oferującą do 100 Nm momentu obrotowego i 750 W mocy szczytowej.
+- Orbea zaprezentowała trzecią generację modelu Rise LT na rok 2027, wyposażoną w nowy silnik Shimano EP810 RS oraz autorskie baterie marki.
+- Marka Honda we współpracy z ROTWILD weszła na rynek e-MTB, prezentując model RN0 z lekkim silnikiem Shimano i DNA motocyklowym.
+- CONWAY i Riese & Müller zaprezentowały nowe wszechstronne modele SUV eBike na rok 2026 ze zintegrowanymi systemami automatycznej zmiany biegów i dużymi pakietami akumulatorów.
 
 ## Jak liczymy prognozę
 
