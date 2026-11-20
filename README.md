@@ -1,49 +1,50 @@
-# Briefing z 19.11.2026
+# Briefing z 20.11.2026
 
-## POGODA - Warszawa, 19.11.2026
+## POGODA - Warszawa, 20.11.2026
 
-- Mżawka
-- Temperatura: 7°C do 10°C (odczuwalna 3°C do 7°C)
-- Opady: 1.3 mm, prawdopodobieństwo do 79%
-- Wiatr: do 28 km/h, w porywach 54 km/h
+- Słaby deszcz
+- Temperatura: 2°C do 8°C (odczuwalna -2°C do 6°C)
+- Opady: 4.4 mm, prawdopodobieństwo do 100%
+- Wiatr: do 16 km/h, w porywach 38 km/h
 - Indeks UV: 1
-- Wschód słońca: 07:03, zachód: 15:38
+- Wschód słońca: 07:05, zachód: 15:37
 
 ---
 
 ## Rynki światowe
-- Akcje Anthropic są wyceniane na maksymalnie 1,5 biliona dolarów przed debiutem giełdowym, co może umieścić firmę w gronie 10 najbardziej wartościowych przedsiębiorstw w USA.
-- Wzrost inflacji w Wielkiej Brytanii sprawił, że typowe rachunki za energię mają wzrosnąć od stycznia o 443 funty rocznie, co oznacza skok o 26%.
-- Protokół z posiedzenia Fedu wskazuje, że urzędnicy rozważają kolejne podwyżki stóp, a niektórzy sugerują ruch o pół punktu procentowego w obliczu utrzymującej się powyżej 2% inflacji.
-- Elon Musk przyznał, że rekordowe wydatki w wysokości 446 milionów dolarów na amerykańskie wybory uzupełniające były "całkiem głupie" oraz odciął się od ruchu MAGA.
-- Prezydent USA Donald Trump odbył w Chinach osobne rozmowy z przywódcą Chin Xi Jinpingiem oraz prezydentem Rosji Władimirem Putinem przed ich trójstronnym spotkaniem.
-- Globalne rynki akcji odnotowują silne przetasowania, a spółki technologiczne tracą na rzecz sektorów defensywnych w obliczu obaw o wyceny sektora AI oraz wskaźniki "death cross" dla małych spółek.
+- Anthropic zadebiutował na giełdzie jako pierwsza czysto technologiczna spółka AI, stając się jednym z najbardziej wartościowych publicznych przedsiębiorstw na świecie.
+- Donald Trump odbył w Chinach spotkania z Xi Jinpingiem i Władimirem Putinem, chwaląc relacje z rosyjskim przywódcą, podczas gdy w USA rosną obawy gospodarcze.
+- Rezerwa Federalna w minutkach z październikowego posiedzenia wskazała, że urzędnicy oczekują kolejnych podwyżek stóp, a część z nich rozważa ruch o 50 pb. z powodu uporczywej inflacji.
+- California wszczęła dochodzenie przeciwko Nvidii w sprawie chińskich chipów AI, a kurs akcji spółki ucierpiał i notuje dalsze spadki po odejściu Jensena Huanga.
+- Rynki akcji w USA odnotowują najgorszy tydzień od kwietnia 2025 roku, a giełdowa wyprzedaż objęła niemal wszystkie sektory poza cyberbezpieczeństwem.
+- Brytyjski urząd ds. konkurencji (CMA) wstępnie uznał, że platforma Viagogo mogła złamać prawo poprzez ukrywanie opłat.
 
 ## Świat
-- Trybunał Sprawiedliwości w Hadze ma wydać historyczny wyrok w sprawie zarzutów o ludobójstwo Mjanmy przeciwko muzułmanom Rohingya.
-- Obraz Vincenta van Gogha *Châtaigniers en fleurs* z 1890 roku sprzedany został za rekordową kwotę 190,4 miliona dolarów po sporze dotyczącym jego nazistowskiej historii.
-- Szef władz Krymu poinformował o kolejnym ataku na Most Krymski, w wyniku którego zawieszono ruch drogowy.
-- Izraelskie wojsko przeprowadziło rzadką operację lądową w Strefie Gazy poza Żółtą Linią, co Hamas potępił jako rażące naruszenie zawieszenia broni.
-- Gra Grand Theft Auto VI zadebiutowała z rewelacyjnymi recenzjami krytyków, osiągając po 13 latach oczekiwania notę 99 punktów w serwisie Metacritic.
+- Unia Europejska i Wielka Brytania mają zatwierdzić pakt o mobilności młodych oraz nowe umowy handlowe podczas szczytu UK-EU.
+- Międzynarodowy Trybunał Sprawiedliwości orzekł, że Mjanma dopuściła się ludobójstwa na mniejszości Rohingya podczas wojskowych czystek w 2017 roku.
+- Donald Trump, Władimir Putin i Xi Jinping wydali wspólną deklarację pokojową po historycznym, pierwszym trilateralnym spotkaniu w Chinach.
+- Europejscy liderzy na szczycie w Berlinie zadeklarowali gotowość do rozmów z Rosją na temat zakończenia wojny w Ukrainie, a Jared Kushner przekazał, że Trump jest otwarty na gwarancje bezpieczeństwa w stylu NATO.
+- Amerykańska agencja morska ostrzegła przed wpływem morskiej blokady Iranu na rosnące stawki ubezpieczeń w Zatoce Perskiej.
+- Donald Trump odwołał dyrektora ds. cyberbezpieczeństwa Seana Cairncrossa i mianował urzędnika Departamentu Obrony na tymczasowego szefa agencji.
 
 ## Polska - ogólne
-- Główny Inspektor Sanitarny ostrzega przed popularną włoską kawą wycofywaną ze sklepów z powodu przekroczenia najwyższego dopuszczalnego poziomu toksyn produkowanych przez pleśnie.
-- Władze Krakowa i radni z większością KO odrzucili projekt prezydenta Łukasza Gibały ws. zawieszenia partnerstwa ze Lwowem, będący reakcją na decyzję o ustanowieniu 2027 roku rokiem UPA.
-- Trzy izby Sądu Najwyższego uznały, że orzeczeniem Trybunału Konstytucyjnego jest rozstrzygnięcie wydane wyłącznie przez osoby, które po wyborze przez Sejm złożyły ślubowanie w obecności prezydenta.
-- Zgromadzenie sędziów TK wyraziło zgodę na pociągnięcie do odpowiedzialności karnej i uchylenie immunitetów Bogdanowi Święczkowskiemu oraz Bartłomiejowi Sochańskiemu.
-- Szef Kancelarii Prezydenta Zbigniew Bogucki poinformował o wypracowaniu wspólnego stanowiska i projektu zmian w Trybunale Konstytucyjnym w około 70 procentach rozwiązań.
-- Pacjentki w Oleśnicy i Suwałkach podzieliły się dramatycznymi relacjami o konieczności przewożenia i przechowywania w domowej lodówce ciał martwych dzieci po poronieniu.
+- Dowództwo Operacyjne RSZ i Rządowe Centrum Bezpieczeństwa wydały pilne ostrzeżenia i poderwały myśliwce w związku z podejrzeniem naruszenia polskiej przestrzeni powietrznej przez niezidentyfikowane obiekty podczas rosyjskiego ataku na Ukrainę.
+- Wiceszef MSZ Marcin Bosacki potwierdził, że w powiecie biłgorajskim mógł spaść jeden z rosyjskich obiektów, a służby prowadzą poszukiwania.
+- Wicepremier i szef MON Władysław Kosiniak-Kamysz po spotkaniu z niemieckim ministrem obrony Borisem Pistoriusem podkreślił, że Polska i Niemcy biorą odpowiedzialność za bezpieczeństwo Europy.
+- Wiceminister obrony narodowej Cezary Tomczyk poinformował, że w okolicach 4-6 grudnia można spodziewać się decyzji Donalda Trumpa ws. utworzenia w Polsce stałej bazy wojsk USA.
+- Rozmowy na temat Trybunału Konstytucyjnego z udziałem przedstawiciela prezydenta Zbigniewa Boguckiego zostały zawieszone do odwołania.
+- Była ambasador USA w Polsce Georgette Mosbacher wskazała na forum P-TEC w Warszawie, że sprawa polskiej energetyki jądrowej ma dla Departamentu Energii USA najwyższy priorytet.
 
 ## Polska - biznes i rynki
-- Premier Donald Tusk ogłosił decyzję rządu o zamrożeniu cen gazu dla odbiorców indywidualnych na dotychczasowym poziomie 197,29 zł za MWh.
-- Październik przyniósł nowy historyczny rekord upadłości konsumenckich w Polsce, dorównując liczbie bankructw z całego roku sprzed dekady.
-- Zysk netto Grupy PZU w trzecim kwartale 2026 roku spadł do 1,443 mld zł z 1,995 mld zł rok wcześniej, co było zgodne z oczekiwaniami analityków.
-- Orlen wypowiedział jedną z dwóch długoterminowych umów na dostawy skroplonego gazu LNG z QatarEnergy z powodu utrzymującej się siły wyższej i braku dostaw.
-- CD Projekt RED zanotował silne odbicie i wzrost akcji na GPW wspierany szałem wokół premiery GTA VI, podczas gdy kursy KGHM i XTB mocno spadły.
-- Kurs dolara na polskim rynku przekroczył poziom 4 zł i utrzymuje się na wielomiesięcznych maksimach, a euro trwale osadziło się powyżej 4,40 zł.
+- Premier Donald Tusk ogłosił zamrożenie cen gazu dla odbiorców indywidualnych na dotychczasowym poziomie 197,29 zł za MWh.
+- Prezydent Karol Nawrocki podpisał ustawę o wyższej akcyzie na alkohol, uzależniając decyzję od przeznaczenia wpływów na ochronę zdrowia.
+- Ministerstwo Aktywów Państwowych poinformowało o zawieszeniu 25-dniowego protestu w Lubelskim Węglu Bogdanka po podpisaniu deklaracji o nowym szybie i negocjacjach płacowych.
+- Złoty pozostaje osłabiony, a kurs dolara przekroczył 4 zł, osiągając najwyższy poziom od 21 miesięcy w obliczu globalnego umocnienia amerykańskiej waluty.
+- PZU opublikowało wyniki za III kwartał 2026 r., odnotowując spadek zysku netto do 1.443 mln zł, co było zgodne z prognozami analityków.
+- Orlen wypowiedział jedną z dwóch długoterminowych umów na dostawy LNG z QatarEnergy z powodu utrzymującej się siły wyższej.
 
 ## Co obserwować dziś
-Dziś warto obserwować reakcje rynków na napływające dane makroekonomiczne oraz dalszy rozwój sytuacji wokół notowań spółek technologicznych i surowców.
+Dziś warto obserwować reakcję rynków na debiut Anthopica, rozwój sytuacji wokół naruszenia polskiej przestrzeni powietrznej oraz doniesienia z posiedzeń banków centralnych.
 
 ---
 
@@ -53,44 +54,44 @@ Dziś warto obserwować reakcje rynków na napływające dane makroekonomiczne o
 
 | Weekend | Warszawa | Szczyrk | Limone sul Garda | Najlepszy wybór |
 |---|---|---|---|---|
-| 21.11-22.11 (za 2 dni) | 🟠 40 | 🔴 14 | 🟠 55 | **Limone sul Garda** |
-| 28.11-29.11 (za 9 dni) | 🟠 51 | 🟠 44 | 🟢 88 | **Limone sul Garda** |
+| 21.11-22.11 (jutro) | 🟠 41 | 🔴 14 | 🟠 51 | **Limone sul Garda** |
+| 28.11-29.11 (za 8 dni) | 🟠 44 | 🔴 34 | 🟡 77 | **Limone sul Garda** |
 
 _Ocena jazdy 0-100: 🟢 80+ świetnie, 🟡 60-79 dobrze, 🟠 40-59 średnio, 🔴 poniżej 40 słabo._
 
 ## Werdykt
 
-Najlepszym wyborem na najbliższy weekend (21.11-22.11) jest Limone sul Garda w sobotę, gdzie prognozowana ocena wynosi aż 93/100 przy temperaturze 6-14°C i braku opadów. W niedzielę pogoda tam jednak mocno załamie się do 17/100 z silnym deszczem, a w Warszawie (do 30/100) i Szczyrku (do 27/100) warunki będą słabe z uwagi na przelotny śnieg, mżawkę i mróz. W kolejny weekend (28.11-29.11) zdecydowanie najlepiej jechać do Limone sul Garda, gdzie obie doby zyskają świetne oceny (85-92/100) i stabilne, suche lub lekko wilgotne szlaki. W Polsce w tym okresie dominować będą ujemne temperatury, ryzyko lodu i chłód skracający zasięg baterii. Należy pamietać, że pewność prognoz bywa niska lub średnia, a dodatkowymi wyzwaniami są krótszy dzień oraz ryzyko wiatru i błota.
+Najlepszym wyborem na nadchodzący weekend (21-22.11) jest Limone sul Garda w sobotę, gdzie prognozowano świetne warunki (93/100, 6-14°C, brak opadów), jednak niedziela przyniesie tam ulewny deszcz i ocenę 9/100. W kolejny weekend (28-29.11) stabilnie najlepsze oceny zbiera Limone sul Garda (po 77/100, dobrze, błoto lub mokre szlaki przy 2-8°C). W Polsce w oba weekendy warunki są słabe lub średnie (Warszawa 40-45 pkt, Szczyrk od 0 do 45 pkt), a szlaki pokrywa śnieg, lód lub błoto. Głównymi ryzykami są chłód, oblodzenia, silny wiatr (szczególnie w Szczyrku w sobotę), opady śniegu i deszczu oraz drastycznie skrócony zasięg baterii na mrozie i krótszy dzień. Należy pamiętać, że pewność prognoz dla Warszawy i Szczyrku bywa średnia lub niska, a w przypadku Limone sul Garda na kolejny weekend wynosi średnio.
 
 ## Szczegóły weekendów
 
-### Weekend 21.11-22.11 (za 2 dni)
+### Weekend 21.11-22.11 (jutro)
 
 - **Warszawa**
-  - **Sobota 21.11** - 🟠 **50/100** (średnio) · Pochmurno 🔋chłód · -0...3°C · opad 0.0 mm (10%) · porywy 41 km/h · szlaki: mokre, błoto miejscami · okno bez deszczu: 08:00-15:00 · zachód 15:36 · pewność: wysoka
-  - **Niedziela 22.11** - 🔴 **30/100** (słabo) · Lekka mżawka 🔋chłód 💨 · 1...4°C · opad 1.9 mm (42%) · porywy 49 km/h · szlaki: lekko wilgotne · okno bez deszczu: 10:00-15:00 · zachód 15:35 · pewność: średnia
+  - **Sobota 21.11** - 🟠 **40/100** (średnio) · Lekka mżawka 🧊 🔋chłód · -0...3°C · opad 0.0 mm (14%) · porywy 43 km/h · szlaki: mokre, błoto miejscami · okno bez deszczu: 08:00-15:00 · zachód 15:36 · pewność: wysoka
+  - **Niedziela 22.11** - 🟠 **42/100** (średnio) · Lekka mżawka 🔋chłód · 1...4°C · opad 2.1 mm (56%) · porywy 44 km/h · szlaki: lekko wilgotne · okno bez deszczu: 08:00-15:00 · zachód 15:35 · pewność: średnia
 
 - **Szczyrk**
-  - **Sobota 21.11** - 🔴 **0/100** (słabo) · Przelotny śnieg ❄️ 🧊 🔋chłód 💨 · -1...4°C · opad 8.9 mm (82%) · porywy 47 km/h · szlaki: śnieg · okno bez deszczu: 09:00-15:00 · zachód 15:54 · pewność: średnia
-  - **Niedziela 22.11** - 🔴 **27/100** (słabo) · Przelotny śnieg 🧊 🔋chłód · -3...1°C · opad 0.6 mm (27%) · porywy 42 km/h · szlaki: błotniste · okno bez deszczu: 08:00-15:00 · zachód 15:53 · pewność: średnia
+  - **Sobota 21.11** - 🔴 **0/100** (słabo) · Umiarkowany śnieg ❄️ 🧊 🔋chłód 💨 · -1...4°C · opad 9.8 mm (95%) · porywy 50 km/h · szlaki: śnieg · okno bez deszczu: 09:00-15:00 · zachód 15:54 · pewność: średnia
+  - **Niedziela 22.11** - 🔴 **27/100** (słabo) · Przelotny śnieg 🧊 🔋chłód · -3...2°C · opad 0.4 mm (16%) · porywy 40 km/h · szlaki: błotniste · okno bez deszczu: 08:00-15:00 · zachód 15:53 · pewność: wysoka
 
 - **Limone sul Garda**
-  - **Sobota 21.11** - 🟢 **93/100** (świetnie) · Pochmurno · 6...14°C · opad 0.0 mm (0%) · porywy 23 km/h · szlaki: mokre, błoto miejscami · okno bez deszczu: 08:00-16:00 · zachód 16:40 · pewność: średnia
-  - **Niedziela 22.11** - 🔴 **17/100** (słabo) · Słaby deszcz · 6...8°C · opad 11.0 mm (88%) · porywy 31 km/h · szlaki: mokre, błoto miejscami · okno bez deszczu: brak suchego okna · zachód 16:39 · pewność: niska
+  - **Sobota 21.11** - 🟢 **93/100** (świetnie) · Pochmurno · 6...14°C · opad 0.0 mm (0%) · porywy 26 km/h · szlaki: mokre, błoto miejscami · okno bez deszczu: 08:00-16:00 · zachód 16:40 · pewność: średnia
+  - **Niedziela 22.11** - 🔴 **9/100** (słabo) · Umiarkowany deszcz · 6...10°C · opad 13.8 mm (100%) · porywy 30 km/h · szlaki: błotniste · okno bez deszczu: brak suchego okna · zachód 16:39 · pewność: niska
 
-### Weekend 28.11-29.11 (za 9 dni)
+### Weekend 28.11-29.11 (za 8 dni)
 
 - **Warszawa**
-  - **Sobota 28.11** - 🟠 **47/100** (średnio) (orientacyjnie) · Pochmurno 🧊 🔋chłód · -3...0°C · opad 0.0 mm (27%) · porywy 32 km/h · szlaki: suche · okno bez deszczu: 08:00-15:00 · zachód 15:29 · pewność: średnia
-  - **Niedziela 29.11** - 🟠 **55/100** (średnio) (orientacyjnie) · Mżawka 🧊 🔋chłód · -4...5°C · opad 0.0 mm (18%) · porywy 25 km/h · szlaki: suche · okno bez deszczu: 08:00-15:00 · zachód 15:28 · pewność: niska
+  - **Sobota 28.11** - 🟠 **42/100** (średnio) (orientacyjnie) · Umiarkowany śnieg 🧊 🔋chłód · -3...0°C · opad 0.2 mm (25%) · porywy 33 km/h · szlaki: suche · okno bez deszczu: 08:00-15:00 · zachód 15:29 · pewność: niska
+  - **Niedziela 29.11** - 🟠 **45/100** (średnio) (orientacyjnie) · Pochmurno 🧊 🔋chłód · -3...-0°C · opad 0.0 mm (16%) · porywy 21 km/h · szlaki: zamarznięte/śliskie · okno bez deszczu: 08:00-15:00 · zachód 15:28 · pewność: średnia
 
 - **Szczyrk**
-  - **Sobota 28.11** - 🟠 **48/100** (średnio) (orientacyjnie) · Mżawka 🧊 🔋chłód · -6...2°C · opad 0.0 mm (36%) · porywy 18 km/h · szlaki: mokre, błoto miejscami · okno bez deszczu: 08:00-15:00 · zachód 15:48 · pewność: niska
-  - **Niedziela 29.11** - 🟠 **40/100** (średnio) (orientacyjnie) · Słaby deszcz 🧊 🔋chłód · -6...2°C · opad 0.0 mm (22%) · porywy 31 km/h · szlaki: mokre, błoto miejscami · okno bez deszczu: 08:00-15:00 · zachód 15:47 · pewność: niska
+  - **Sobota 28.11** - 🔴 **23/100** (słabo) (orientacyjnie) · Umiarkowany śnieg 🧊 🔋chłód · -4...-2°C · opad 1.0 mm (30%) · porywy 22 km/h · szlaki: zamarznięte/śliskie · okno bez deszczu: 08:00-15:00 · zachód 15:48 · pewność: średnia
+  - **Niedziela 29.11** - 🟠 **45/100** (średnio) (orientacyjnie) · Pochmurno 🧊 🔋chłód · -6...-2°C · opad 0.0 mm (26%) · porywy 21 km/h · szlaki: zamarznięte/śliskie · okno bez deszczu: 08:00-15:00 · zachód 15:47 · pewność: średnia
 
 - **Limone sul Garda**
-  - **Sobota 28.11** - 🟢 **85/100** (świetnie) (orientacyjnie) · Przeważnie słonecznie · 5...10°C · opad 0.0 mm (22%) · porywy 28 km/h · szlaki: mokre, błoto miejscami · okno bez deszczu: 08:00-16:00 · zachód 16:35 · pewność: średnia
-  - **Niedziela 29.11** - 🟢 **92/100** (świetnie) (orientacyjnie) · Pochmurno · 4...11°C · opad 0.0 mm (23%) · porywy 28 km/h · szlaki: lekko wilgotne · okno bez deszczu: 08:00-16:00 · zachód 16:35 · pewność: średnia
+  - **Sobota 28.11** - 🟡 **77/100** (dobrze) (orientacyjnie) · Mgła · 2...8°C · opad 0.0 mm (26%) · porywy 27 km/h · szlaki: błotniste · okno bez deszczu: 08:00-16:00 · zachód 16:35 · pewność: średnia
+  - **Niedziela 29.11** - 🟡 **77/100** (dobrze) (orientacyjnie) · Pochmurno · 3...8°C · opad 0.0 mm (32%) · porywy 32 km/h · szlaki: mokre, błoto miejscami · okno bez deszczu: 08:00-16:00 · zachód 16:35 · pewność: średnia
 
 ## Najbliższe 7 dni
 
@@ -99,46 +100,46 @@ _np. Kampinos, Las Kabacki_
 
 | Dzień | Pogoda | Temp. | Opad | Porywy | Szlaki | Ocena | Pewność |
 |---|---|---|---|---|---|---|---|
-| czw 19.11 | Mżawka 💨 | 7...10°C | 2.7 mm (81%) | 53 km/h | mokre, błoto miejscami | 🟠 50 | niska |
-| pt 20.11 | Gęsta mżawka | 1...8°C | 3.2 mm (70%) | 41 km/h | mokre, błoto miejscami | 🟠 42 | wysoka |
-| sob 21.11 | Pochmurno 🔋chłód | -0...3°C | 0.0 mm (10%) | 41 km/h | mokre, błoto miejscami | 🟠 50 | wysoka |
-| niedz 22.11 | Lekka mżawka 🔋chłód 💨 | 1...4°C | 1.9 mm (42%) | 49 km/h | lekko wilgotne | 🔴 30 | średnia |
-| pon 23.11 | Przelotny śnieg ❄️ 🔋chłód 💨 | 0...2°C | 2.0 mm (28%) | 46 km/h | śnieg | 🔴 5 | średnia |
-| wt 24.11 | Przelotny śnieg ❄️ 🔋chłód | 1...3°C | 3.1 mm (30%) | 42 km/h | śnieg | 🔴 0 | średnia |
-| śr 25.11 | Pochmurno 🧊 🔋chłód | -1...2°C | 0.0 mm (5%) | 27 km/h | mokre, błoto miejscami | 🟠 48 | wysoka |
+| pt 20.11 | Mżawka | 1...8°C | 1.5 mm (94%) | 37 km/h | mokre, błoto miejscami | 🟡 62 | wysoka |
+| sob 21.11 | Lekka mżawka 🧊 🔋chłód | -0...3°C | 0.0 mm (14%) | 43 km/h | mokre, błoto miejscami | 🟠 40 | wysoka |
+| niedz 22.11 | Lekka mżawka 🔋chłód | 1...4°C | 2.1 mm (56%) | 44 km/h | lekko wilgotne | 🟠 42 | średnia |
+| pon 23.11 | Słaby śnieg 🧊 🔋chłód | -0...2°C | 1.1 mm (44%) | 45 km/h | lekko wilgotne | 🔴 32 | niska |
+| wt 24.11 | Przelotny śnieg ❄️ 🔋chłód | 1...2°C | 4.0 mm (54%) | 40 km/h | śnieg | 🔴 0 | średnia |
+| śr 25.11 | Słaby śnieg 🔋chłód | 0...2°C | 0.9 mm (21%) | 35 km/h | mokre, błoto miejscami | 🟠 45 | średnia |
+| czw 26.11 | Pochmurno 🧊 🔋chłód | -2...1°C | 0.0 mm (11%) | 20 km/h | lekko wilgotne | 🟠 55 | wysoka |
 
 ### Szczyrk
 _np. Skrzyczne, Szczyrk Mountain Resort; temperatura przeliczona dla ok. 800 m n.p.m._
 
 | Dzień | Pogoda | Temp. | Opad | Porywy | Szlaki | Ocena | Pewność |
 |---|---|---|---|---|---|---|---|
-| czw 19.11 | Słaby deszcz 💨 | 4...9°C | 7.8 mm (99%) | 60 km/h | błotniste | 🔴 2 | niska |
-| pt 20.11 | Słaby deszcz 🔋chłód 💨 | 4...6°C | 5.9 mm (83%) | 56 km/h | błotniste | 🔴 10 | wysoka |
-| sob 21.11 | Przelotny śnieg ❄️ 🧊 🔋chłód 💨 | -1...4°C | 8.9 mm (82%) | 47 km/h | śnieg | 🔴 0 | średnia |
-| niedz 22.11 | Przelotny śnieg 🧊 🔋chłód | -3...1°C | 0.6 mm (27%) | 42 km/h | błotniste | 🔴 27 | średnia |
-| pon 23.11 | Przelotny śnieg ❄️ 🧊 🔋chłód 💨 | -5...-2°C | 4.6 mm (54%) | 49 km/h | śnieg | 🔴 0 | średnia |
-| wt 24.11 | Przelotny śnieg ❄️ 🧊 🔋chłód 💨 | -5...-2°C | 4.4 mm (56%) | 47 km/h | śnieg | 🔴 0 | wysoka |
-| śr 25.11 | Słaby śnieg 🧊 🔋chłód | -7...0°C | 0.4 mm (15%) | 32 km/h | mokre, błoto miejscami | 🔴 35 | średnia |
+| pt 20.11 | Słabe przelotne opady 🔋chłód 💨 | 4...6°C | 5.9 mm (91%) | 56 km/h | błotniste | 🔴 10 | średnia |
+| sob 21.11 | Umiarkowany śnieg ❄️ 🧊 🔋chłód 💨 | -1...4°C | 9.8 mm (95%) | 50 km/h | śnieg | 🔴 0 | średnia |
+| niedz 22.11 | Przelotny śnieg 🧊 🔋chłód | -3...2°C | 0.4 mm (16%) | 40 km/h | błotniste | 🔴 27 | wysoka |
+| pon 23.11 | Przelotny śnieg ❄️ 🧊 🔋chłód 💨 | -5...-2°C | 5.6 mm (78%) | 49 km/h | śnieg | 🔴 0 | średnia |
+| wt 24.11 | Przelotny śnieg ❄️ 🧊 🔋chłód 💨 | -5...-3°C | 7.8 mm (78%) | 51 km/h | śnieg | 🔴 0 | niska |
+| śr 25.11 | Pochmurno ❄️ 🧊 🔋chłód | -8...-1°C | 1.0 mm (24%) | 35 km/h | śnieg | 🔴 0 | niska |
+| czw 26.11 | Umiarkowany śnieg 🧊 🔋chłód | -4...-3°C | 0.8 mm (34%) | 20 km/h | zamarznięte/śliskie | 🔴 33 | średnia |
 
 ### Limone sul Garda
 _np. Tremalzo, Ponale; prognoza dla okolic jeziora, na szlakach powyżej 1000 m bywa o kilka stopni chłodniej_
 
 | Dzień | Pogoda | Temp. | Opad | Porywy | Szlaki | Ocena | Pewność |
 |---|---|---|---|---|---|---|---|
-| czw 19.11 | Słabe przelotne opady | 8...11°C | 11.8 mm (100%) | 31 km/h | mokre, błoto miejscami | 🔴 17 | średnia |
-| pt 20.11 | Pochmurno | 7...13°C | 0.0 mm (0%) | 23 km/h | błotniste | 🟢 85 | średnia |
-| sob 21.11 | Pochmurno | 6...14°C | 0.0 mm (0%) | 23 km/h | mokre, błoto miejscami | 🟢 93 | średnia |
-| niedz 22.11 | Słaby deszcz | 6...8°C | 11.0 mm (88%) | 31 km/h | mokre, błoto miejscami | 🔴 17 | niska |
-| pon 23.11 | Pochmurno | 6...11°C | 0.1 mm (14%) | 25 km/h | błotniste | 🟡 77 | niska |
-| wt 24.11 | Lekka mżawka | 5...10°C | 0.1 mm (20%) | 21 km/h | mokre, błoto miejscami | 🟢 85 | wysoka |
-| śr 25.11 | Przelotne opady | 7...9°C | 10.4 mm (63%) | 23 km/h | mokre, błoto miejscami | 🔴 25 | średnia |
+| pt 20.11 | Pochmurno | 6...13°C | 0.0 mm (1%) | 24 km/h | błotniste | 🟢 85 | średnia |
+| sob 21.11 | Pochmurno | 6...14°C | 0.0 mm (0%) | 26 km/h | mokre, błoto miejscami | 🟢 93 | średnia |
+| niedz 22.11 | Umiarkowany deszcz | 6...10°C | 13.8 mm (100%) | 30 km/h | błotniste | 🔴 9 | niska |
+| pon 23.11 | Pochmurno | 8...11°C | 0.3 mm (9%) | 27 km/h | błotniste | 🟡 72 | niska |
+| wt 24.11 | Słaby deszcz | 6...10°C | 0.0 mm (15%) | 24 km/h | mokre, błoto miejscami | 🟢 85 | wysoka |
+| śr 25.11 | Słabe przelotne opady | 6...8°C | 19.1 mm (71%) | 24 km/h | błotniste | 🔴 17 | średnia |
+| czw 26.11 | Słabe przelotne opady | 6...8°C | 16.9 mm (67%) | 31 km/h | błotniste | 🔴 9 | średnia |
 
 ## Nowości ze świata e-MTB
 
-- Shimano zaprezentowało nową flagową jednostkę napędową EP810 dla eMTB, oferującą do 100 Nm momentu obrotowego i 750 W mocy szczytowej przy wadze zaledwie 2,3 kg.
-- Nowy model Orbea Rise LT na rok 2027 został wyposażony w nowy silnik Shimano EP810 RS, dostarczający do 100 Nm i 600 W mocy szczytowej w lekkiej konstrukcji full-suspension.
-- Producenci tacy jak Amflow, Focus i Conway rozwijają segment miejskich i wszechstronnych e-bike'ów SUV z napędami paskowymi, automatycznymi przerzutkami oraz dedykowaną amortyzacją.
-- Przeprowadzono testy porównawcze mobilnych myjek ciśnieniowych Kärcher OC 7-18 oraz OC Handheld Compact Adventure, przydatnych do szybkiego czyszczenia błota po jeździe w terenie.
+- Shimano zaprezentowało nową flagową jednostkę EP810 do e-MTB, oferującą do 100 Nm momentu obrotowego i 750 W mocy szczytowej przy wadze zaledwie 2,3 kg.
+- Orbea zaprezentowała trzecią generację modelu 2027 Rise LT, wyposażonego w nowy silnik Shimano EP810 RS oraz dedykowane akumulatory marki.
+- Testowany model Specialized Turbo Vado 3 X 6.0 wkracza w terytorium SUV eBike, łącząc cechy roweru miejskiego z pełnym zawieszeniem i DNA linii Levo.
+- Kärcher porównał mobilne myjki ciśnieniowe OC 7-18 oraz OC Handheld Compact Adventure pod kątem skuteczności w usuwaniu błota i dbałości o uszczelki roweru.
 
 ## Jak liczymy prognozę
 
