@@ -1,50 +1,46 @@
-# Briefing z 22.11.2026
+# Briefing z 23.11.2026
 
-## POGODA - Warszawa, 22.11.2026
+## POGODA - Warszawa, 23.11.2026
 
 - Mżawka
-- Temperatura: 2°C do 4°C (odczuwalna -3°C do -0°C)
-- Opady: 1.3 mm, prawdopodobieństwo do 47%
-- Wiatr: do 24 km/h, w porywach 48 km/h
+- Temperatura: 1°C do 2°C (odczuwalna -4°C do -2°C)
+- Opady: 2.5 mm, prawdopodobieństwo do 83%
+- Wiatr: do 23 km/h, w porywach 45 km/h
 - Indeks UV: 1
-- Wschód słońca: 07:08, zachód: 15:35
+- Wschód słońca: 07:09, zachód: 15:34
 
 ---
 
 ## Rynki światowe
-- Wyprzedaż akcji technologicznych sprowadziła amerykańskie rynki (S&P 500 i Dow Jones) w terytorium korekty po spadku cen akcji Anthropic.
-- Prezydent USA Donald Trump zagroził zakazem budowy zagranicznych centrów danych AI przez amerykańskie firmy.
-- Sprzedaż gry GTA 6 osiągnęła rekordowe 3,8 miliarda dolarów w jeden dzień, stając się największą premierą rozrywkową w historii.
-- Protokół z posiedzenia Fedu z października wskazuje, że urzędnicy obawiają się wpływu sztucznej inteligencji na inflację i mogą rozważać kolejne podwyżki stóp.
-- Prezes Fedu w Nowym Jorku oraz inni urzędnicy wypowiadają się coraz częściej, podczas gdy szef Fedu pozostaje na uboczu, a niektórzy członkowie sugerują możliwość podwyżki stóp o pół punktu procentowego.
-- Wielka Brytania i UE zawarły nową umowę handlową dotyczącą eksportu żywności, handlu uprawnieniami do emisji i programu wymiany młodzieży, która ma wspomóc gospodarkę.
+- Banki centralne na całym świecie szykują się do kolejnej rundy podwyżek stóp procentowych jeszcze przed Bożym Narodzeniem, a kolejna może już nie nastąpić.
+- Rezerwa Federalna opublikowała minuty z posiedzenia z października, na którym stopy utrzymano w przedziale 3,75%–4%, przy czym urzędnicy obawiają się wpływu sztucznej inteligencji na inflację i oczekują kolejnych podwyżek.
+- Ceny energii gwałtownie rosną, a szef Centrica, Chris O'Shea, ostrzega przed wzrostem liczby osób niezdolnych lub niechętnych do opłacania rachunków.
+- Sektor AI w San Francisco zmaga się z obawami o przegrzanie sektora i możliwy krach, a nastroje wokół akcji technologicznych i debiutów giełdowych ulegają pogorszeniu.
+- Prezydent USA Donald Trump odbył spotkania m.in. z Władimirem Putinem i Xi Jinpingiem w Chinach, jednak kwestie handlowe, Tajwan i napięcia technologiczne pozostają nierozwiązane.
 
 ## Świat
-- Szczyt klimatyczny ONZ COP31 w Turcji wszedł w drugi dzień dogrywki, a kraje walczą o uniknięcie załamania rozmów i wypracowanie ostatecznego porozumienia w sprawie paliw kopalnych.
-- Prezydent Ukrainy Wołodymyr Zełenski określił niedawne ataki na Most Krymski jako „sprawiedliwą odpowiedź” po setkach rosyjskich ataków na ukraińskie przeprawy.
-- Siły obrony Finlandii poinformowały, że statek płynący do Rosji w Zatoce Fińskiej został zaatakowany przez ukraińskie drony, co wywołało pożar i konieczność ewakuacji załogi.
-- Meksykański baron narkotykowy Fausto Isidro "Chapo Isidro" Meza Flores, poszukiwany przez FBI, został zatrzymany w wyniku strzelaniny, w której zginęło 11 osób (siedmiu bojowników kartelu i czterech żołnierzy).
-- FBI prowadzi śledztwo w sprawie domniemanego włamania do swojej głównej bazy danych dotyczących przestępczości (NCIC).
-- Dania oskarżyła Rosję o planowanie zamachu na amerykańsko-ukraińskiego rapera, co doprowadziło do wydalenia rosyjskiego attaché obrony.
+- Najdłuższe w historii szczyt klimatyczny ONZ COP31 zakończył się bez porozumienia z powodu głębokich podziałów geopolitycznych.
+- W Ukrainie, w wyniku rosyjskiego ataku dronowego na budynek mieszkalny w Dymerze, zginęło 11 osób, a 7-letni chłopiec został uratowany po 14 godzinach spędzonych w gruzach.
+- Południowokoreański minister edukacji podał się do dymisji w związku z chaosem wokół skandalu z oszustwami wspomaganymi przez sztuczną inteligencję podczas egzaminów wstępnych na studia.
+- Carlos Alcaraz pokonał lidera światowego rankingu Alexandra Zvereva i po raz pierwszy w karierze wygrał tytuł finałów ATP.
+- Premier Wielkiej Brytanii poinformował o porozumieniu z Unią Europejską, przedstawiając je jako wybór między zepsutym status quo a zmianą.
 
 ## Polska - ogólne
-- Rosyjski pocisk manewrujący Ch-101, który spadł w Nowym Lipowcu, został wyprodukowany w czwartym kwartale bieżącego roku i miał eksplodować nad ziemią.
-- Wicepremier i szef MON Władysław Kosiniak-Kamysz zapowiedział, że Polska otrzyma od sojuszników z NATO silne wsparcie wzmacniające ochronę wschodniej granicy, co zostanie omówione na spotkaniu w kwaterze głównej NATO.
-- Sekretarz generalny NATO Mark Rutte oświadczył podczas wizyty w Polsce, że incydent z naruszeniem polskiej przestrzeni powietrznej był niebezpieczny, lecz nie uruchamia artykułu 5, zapewniając jednocześnie o obronie każdej piędzi polskiego terytorium.
-- W pożarze domu szeregowego w Trzciance (Wielkopolska) zginęły trzy osoby, w tym 12-letnie dziecko, a z ogniem walczyło 13 zastępów straży pożarnej.
-- Marcin Przydacz (KPRP) skrytykował szefa MSZ Radosława Sikorskiego za eskalację konfliktu wokół rozesłania do kilkunastu stolic wniosków o zgodę na przyjazd dyplomatów bez uzgodnień z KPRP.
-- 24-letni strażak ochotnik Tomek, który własnym ciałem w Krakowie ochronił żonę przed kulami zamachowca, został przeniesiony na oddział ogólny i rozpoczął rehabilitację.
+- Prokuratura Okręgowa w Lublinie przekazała wstępne ustalenia, z których wynika, że na Polskę spadły trzy pociski manewrujące Ch-101 (w Nowym Lipowcu, Rudniku i Mołodyczu).
+- Wybory uzupełniające do Senatu w okręgu nr 20 (woj. lubuskie) wygrała Zdzisława Różańska (KWW Koalicji 15 Października) z wynikiem 42,68% przy frekwencji 13,78%.
+- Wzrosła wymiana ciosów między MSZ a Pałacem Prezydenckim w sprawie nominacji ambasadorskich, po tym jak szef biura polityki międzynarodowej prezydenta Marcin Przydacz skomentował wypowiedź rzecznika MSZ Radosława Sikorskiego.
+- Z sondażu dla Wirtualnej Polski wynika, że zdecydowana większość Polaków uważa, iż rząd Donalda Tuska nie realizuje obietnic wyborczych, a prezydent Karol Nawrocki budzi silną polaryzację opinii.
+- W Medyni Głogowskiej w wypadku zginął 90-letni ksiądz Józef Kot, który wtargnął na jezdnię wprost pod nadjeżdżający samochód.
 
 ## Polska - biznes i rynki
-- Giełda Papierów Wartościowych w Warszawie zanotowała silną wyprzedaż i spadki głównych indeksów do poziomów niewidzianych od początku września pod wpływem globalnej awersji do ryzyka.
-- Kurs dolara sforsował psychologiczną granicę 4,00 zł i osiągnął najwyższy poziom od 19-21 miesięcy, a euro utrzymało się powyżej poziomu 4,40 zł, czemu towarzyszy osłabienie złotego.
-- Narodowy Bank Polski w listopadzie dokupił przynajmniej 10 ton złota, co wynika z danych i wcześniejszych deklaracji prezesa Adama Glapińskiego.
-- Premier Donald Tusk ogłosił decyzję rządu o zamrożeniu cen gazu dla odbiorców indywidualnych na dotychczasowym poziomie 197,29 zł za MWh.
-- Prezydent Karol Nawrocki podpisał ustawę podwyższającą akcyzę na alkohol ze względu na zagwarantowanie dodatkowych środków na ochronę zdrowia.
-- NBP wstrzymał realizację zleceń płatniczych dokonywanych przez Trybunał Konstytucyjny w kontekście sporu o kierowanie tą instytucją.
+- Premier Donald Tusk ogłosił, że rząd zdecydował o zamrożeniu cen gazu dla odbiorców indywidualnych na dotychczasowym poziomie 197,29 zł za MWh.
+- Kurs dolara sforsował psychologiczną granicę 4,00 zł i jest najdroższy od 19 do 21 miesięcy, podczas gdy euro utrzymuje się powyżej 4,40 zł, a polski złoty pozostaje pod presją.
+- Giełda Papierów Wartościowych w Warszawie zmaga się z falą wyprzedaży i globalną awersją do ryzyka, co sprowadziło główne indeksy do poziomów niewidzianych od początku września.
+- Narodowy Bank Polskich (NBP) w listopadzie musiał dokupić co najmniej 10 ton złota, co wynika z wcześniejszych deklaracji prezesa Adama Glapińskiego, a także wstrzymał zlecenia płatnicze na rachunkach Trybunału Konstytucyjnego.
+- Prezydent Karol Nawrocki podpisał ustawę podwyższającą akcyzę na alkohol ze względu na zagwarantowanie dodatkowych środków na ochronę zdrowia, a Orlen wypowiedział jedną z dwóch umów długoterminowych na dostawy LNG z QatarEnergy z powodu siły wyższej.
 
 ## Co obserwować dziś
-Dziś warto obserwować najnowsze dane makroekonomiczne z kraju i Europy, w tym statystyki inflacyjne, oraz reakcje rynków finansowych na globalną wyprzedaż akcji technologicznych i silnego dolara.
+Dziś warto śledzić najnowsze dane makroekonomiczne i inflacyjne napływające z kraju oraz Europy, a także doniesienia rynkowe związane z sytuacją na GPW i notowaniami walut.
 
 ---
 
@@ -54,41 +50,44 @@ Dziś warto obserwować najnowsze dane makroekonomiczne z kraju i Europy, w tym 
 
 | Weekend | Warszawa | Szczyrk | Limone sul Garda | Najlepszy wybór |
 |---|---|---|---|---|
-| niedziela 22.11 (dziś) | 🔴 30 | 🔴 27 | 🔴 25 | brak dobrego wyboru |
-| 28.11-29.11 (za 6 dni) | 🟠 45 | 🔴 19 | 🟢 84 | **Limone sul Garda** |
+| 28.11-29.11 (za 5 dni) | 🟠 41 | 🔴 30 | 🟢 81 | **Limone sul Garda** |
+| 05.12-06.12 (za 12 dni) | 🟠 52 | 🔴 28 | 🟢 80 | **Limone sul Garda** |
 
 _Ocena jazdy 0-100: 🟢 80+ świetnie, 🟡 60-79 dobrze, 🟠 40-59 średnio, 🔴 poniżej 40 słabo._
 
 ## Werdykt
 
-Dziś w niedzielę warunki do jazdy na e-MTB są słabe we wszystkich lokalizacjach: w Warszawie panuje lekka mżawka przy 2-4°C, w Szczyrku przelotny śnieg i -3...2°C z błotnistymi szlakami, a w Limone sul Garda pada umiarkowany deszcz (12.3 mm) przy braku suchego okna. W najbliższy weekend (28-29.11) najlepiej jechać do Limone sul Garda, gdzie w sobotę będzie dobrze (ocena 77, 3-9°C, suche szlaki), a w niedzielę świetnie (ocena 92, 5-10°C, mgła). Zupełnie odradza się wtedy Szczyrk ze względu na silny mróz (-12 do -4°C) i śnieg, natomiast w Warszawie warunki będą średnie (ocena 45) z zamarzniętymi, śliskimi szlakami. Głównymi ryzykami w tym okresie są chłód skracający zasięg baterii, lód, śnieg, błoto oraz silny wiatr. Należy pamiętać, że pewność prognoz na przyszły weekend jest średnia lub niska, a okna pogodowe są ograniczone przez krótki dzień.
+W najbliższy weekend (28-29.11) oraz w kolejny (05-06.12) zdecydowanie najlepszym kierunkiem dla rowerzystów e-MTB jest Limone sul Garda, gdzie średnie oceny wynoszą odpowiednio 81 i 80 punktów przy sprzyjających, dodatnich temperaturach. Zupełnie inaczej sytuacja wygląda w Polsce – zarówno w Warszawie, jak i w Szczyrku prognozowane są ujemne temperatury, zamarznięte lub śliskie szlaki oraz silny chłód, spędzający oceny jazdy do niskiego poziomu 25-52 punktów. Główne ryzyka obejmują ryzyko wychłodzenia organizmu, drastyczny spadek zasięgu baterii na mrozie, oblodzenia tras oraz bardzo krótki dzień z oknem pogodowym kończącym się już o 15:00. Należy pamiętać, że pewność prognoz na pierwszy weekend jest wysoka, jednak dla drugiego terminu (05-06.12) pewność ta jest niska, a prognozy mają charakter czysto orientacyjny.
 
 ## Szczegóły weekendów
 
-### Weekend niedziela 22.11 (dziś)
+### Weekend 28.11-29.11 (za 5 dni)
 
 - **Warszawa**
-  - **Niedziela 22.11** - 🔴 **30/100** (słabo) · Lekka mżawka 🔋chłód 💨 · 2...4°C · opad 1.4 mm (48%) · porywy 45 km/h · szlaki: lekko wilgotne · okno bez deszczu: 08:00-15:00 · zachód 15:35 · pewność: średnia
+  - **Sobota 28.11** - 🟠 **45/100** (średnio) · Pochmurno 🧊 🔋chłód · -5...-2°C · opad 0.0 mm (6%) · porywy 22 km/h · szlaki: zamarznięte/śliskie · okno bez deszczu: 08:00-15:00 · zachód 15:29 · pewność: wysoka
+  - **Niedziela 29.11** - 🔴 **37/100** (słabo) · Pochmurno 🧊 🔋chłód · -6...-3°C · opad 0.0 mm (5%) · porywy 32 km/h · szlaki: zamarznięte/śliskie · okno bez deszczu: 08:00-15:00 · zachód 15:28 · pewność: wysoka
 
 - **Szczyrk**
-  - **Niedziela 22.11** - 🔴 **27/100** (słabo) · Przelotny śnieg 🧊 🔋chłód · -3...2°C · opad 0.7 mm (36%) · porywy 45 km/h · szlaki: błotniste · okno bez deszczu: 08:00-15:00 · zachód 15:53 · pewność: średnia
+  - **Sobota 28.11** - 🔴 **30/100** (słabo) · Ziarna śniegu 🧊 🔋chłód · -11...-4°C · opad 0.2 mm (15%) · porywy 40 km/h · szlaki: zamarznięte/śliskie · okno bez deszczu: 08:00-15:00 · zachód 15:48 · pewność: wysoka
+  - **Niedziela 29.11** - 🔴 **30/100** (słabo) · Pochmurno 🧊 🔋chłód · -13...-2°C · opad 0.0 mm (9%) · porywy 36 km/h · szlaki: zamarznięte/śliskie · okno bez deszczu: 08:00-15:00 · zachód 15:47 · pewność: średnia
 
 - **Limone sul Garda**
-  - **Niedziela 22.11** - 🔴 **25/100** (słabo) · Umiarkowany deszcz · 6...9°C · opad 12.3 mm (100%) · porywy 28 km/h · szlaki: mokre, błoto miejscami · okno bez deszczu: brak suchego okna · zachód 16:39 · pewność: niska
+  - **Sobota 28.11** - 🟡 **77/100** (dobrze) · Przeważnie słonecznie · 3...8°C · opad 0.0 mm (6%) · porywy 25 km/h · szlaki: błotniste · okno bez deszczu: 08:00-16:00 · zachód 16:35 · pewność: średnia
+  - **Niedziela 29.11** - 🟢 **85/100** (świetnie) · Częściowe zachmurzenie · 4...10°C · opad 0.0 mm (8%) · porywy 23 km/h · szlaki: mokre, błoto miejscami · okno bez deszczu: 08:00-16:00 · zachód 16:35 · pewność: średnia
 
-### Weekend 28.11-29.11 (za 6 dni)
+### Weekend 05.12-06.12 (za 12 dni)
 
 - **Warszawa**
-  - **Sobota 28.11** - 🟠 **45/100** (średnio) · Częściowe zachmurzenie 🧊 🔋chłód · -3...-1°C · opad 0.0 mm (21%) · porywy 28 km/h · szlaki: zamarznięte/śliskie · okno bez deszczu: 08:00-15:00 · zachód 15:29 · pewność: niska
-  - **Niedziela 29.11** - 🟠 **45/100** (średnio) · Pochmurno 🧊 🔋chłód · -5...-2°C · opad 0.0 mm (19%) · porywy 26 km/h · szlaki: zamarznięte/śliskie · okno bez deszczu: 08:00-15:00 · zachód 15:28 · pewność: średnia
+  - **Sobota 05.12** - 🟠 **52/100** (średnio) (orientacyjnie) · Lekka mżawka 🔋chłód · 2...4°C · opad 0.2 mm (18%) · porywy 37 km/h · szlaki: suche · okno bez deszczu: 08:00-15:00 · zachód 15:24 · pewność: niska
+  - **Niedziela 06.12** - 🟠 **52/100** (średnio) (orientacyjnie) · Przelotny śnieg 🔋chłód · 1...4°C · opad 0.9 mm (17%) · porywy 36 km/h · szlaki: lekko wilgotne · okno bez deszczu: 08:00-15:00 · zachód 15:24 · pewność: niska
 
 - **Szczyrk**
-  - **Sobota 28.11** - 🔴 **0/100** (słabo) · Słaby śnieg ❄️ 🧊 🔋chłód · -8...-4°C · opad 1.2 mm (22%) · porywy 17 km/h · szlaki: śnieg · okno bez deszczu: 08:00-15:00 · zachód 15:48 · pewność: średnia
-  - **Niedziela 29.11** - 🔴 **38/100** (słabo) · Częściowe zachmurzenie 🧊 🔋chłód · -12...-4°C · opad 0.0 mm (24%) · porywy 21 km/h · szlaki: zamarznięte/śliskie · okno bez deszczu: 08:00-15:00 · zachód 15:47 · pewność: średnia
+  - **Sobota 05.12** - 🔴 **25/100** (słabo) (orientacyjnie) · Gęsta mżawka 🧊 🔋chłód 💨 · -4...-2°C · opad 0.0 mm (26%) · porywy 45 km/h · szlaki: zamarznięte/śliskie · okno bez deszczu: 08:00-15:00 · zachód 15:44 · pewność: niska
+  - **Niedziela 06.12** - 🔴 **32/100** (słabo) (orientacyjnie) · Słaby śnieg 🧊 🔋chłód · -2...-0°C · opad 0.9 mm (36%) · porywy 39 km/h · szlaki: zamarznięte/śliskie · okno bez deszczu: 08:00-15:00 · zachód 15:44 · pewność: niska
 
 - **Limone sul Garda**
-  - **Sobota 28.11** - 🟡 **77/100** (dobrze) · Pochmurno · 3...9°C · opad 0.0 mm (11%) · porywy 20 km/h · szlaki: błotniste · okno bez deszczu: 08:00-16:00 · zachód 16:35 · pewność: średnia
-  - **Niedziela 29.11** - 🟢 **92/100** (świetnie) · Mgła · 5...10°C · opad 0.0 mm (11%) · porywy 24 km/h · szlaki: lekko wilgotne · okno bez deszczu: 08:00-16:00 · zachód 16:35 · pewność: wysoka
+  - **Sobota 05.12** - 🟢 **92/100** (świetnie) (orientacyjnie) · Przelotny śnieg · 5...9°C · opad 0.0 mm (10%) · porywy 27 km/h · szlaki: suche · okno bez deszczu: 08:00-16:00 · zachód 16:32 · pewność: średnia
+  - **Niedziela 06.12** - 🟡 **69/100** (dobrze) (orientacyjnie) · Lekka mżawka · 5...8°C · opad 1.2 mm (18%) · porywy 40 km/h · szlaki: suche · okno bez deszczu: 08:00-16:00 · zachód 16:32 · pewność: niska
 
 ## Najbliższe 7 dni
 
@@ -97,46 +96,46 @@ _np. Kampinos, Las Kabacki_
 
 | Dzień | Pogoda | Temp. | Opad | Porywy | Szlaki | Ocena | Pewność |
 |---|---|---|---|---|---|---|---|
-| niedz 22.11 | Lekka mżawka 🔋chłód 💨 | 2...4°C | 1.4 mm (48%) | 45 km/h | lekko wilgotne | 🔴 30 | średnia |
-| pon 23.11 | Przelotny śnieg ❄️ 🔋chłód | 1...2°C | 2.7 mm (71%) | 42 km/h | śnieg | 🔴 17 | średnia |
-| wt 24.11 | Umiarkowany śnieg ❄️ 🔋chłód | 1...3°C | 5.6 mm (83%) | 41 km/h | śnieg | 🔴 0 | średnia |
-| śr 25.11 | Pochmurno 🧊 🔋chłód | -0...2°C | 0.1 mm (15%) | 32 km/h | mokre, błoto miejscami | 🟠 40 | średnia |
-| czw 26.11 | Pochmurno 🧊 🔋chłód | -2...1°C | 0.0 mm (6%) | 36 km/h | mokre, błoto miejscami | 🟠 40 | wysoka |
-| pt 27.11 | Słaby śnieg 🧊 🔋chłód | -2...0°C | 0.3 mm (27%) | 36 km/h | lekko wilgotne | 🟠 42 | niska |
-| sob 28.11 | Częściowe zachmurzenie 🧊 🔋chłód | -3...-1°C | 0.0 mm (21%) | 28 km/h | zamarznięte/śliskie | 🟠 45 | niska |
+| pon 23.11 | Przelotny śnieg ❄️ 🔋chłód | 1...2°C | 2.1 mm (85%) | 44 km/h | śnieg | 🔴 17 | wysoka |
+| wt 24.11 | Umiarkowany śnieg ❄️ 🔋chłód 💨 | 1...3°C | 4.7 mm (92%) | 47 km/h | śnieg | 🔴 0 | wysoka |
+| śr 25.11 | Ziarna śniegu 🧊 🔋chłód | -0...2°C | 0.8 mm (23%) | 30 km/h | mokre, błoto miejscami | 🔴 35 | średnia |
+| czw 26.11 | Pochmurno 🧊 🔋chłód | -2...-0°C | 0.0 mm (3%) | 34 km/h | zamarznięte/śliskie | 🔴 30 | wysoka |
+| pt 27.11 | Pochmurno 🧊 🔋chłód | -3...0°C | 0.0 mm (22%) | 36 km/h | lekko wilgotne | 🟠 47 | wysoka |
+| sob 28.11 | Pochmurno 🧊 🔋chłód | -5...-2°C | 0.0 mm (6%) | 22 km/h | zamarznięte/śliskie | 🟠 45 | wysoka |
+| niedz 29.11 | Pochmurno 🧊 🔋chłód | -6...-3°C | 0.0 mm (5%) | 32 km/h | zamarznięte/śliskie | 🔴 37 | wysoka |
 
 ### Szczyrk
 _np. Skrzyczne, Szczyrk Mountain Resort; temperatura przeliczona dla ok. 800 m n.p.m._
 
 | Dzień | Pogoda | Temp. | Opad | Porywy | Szlaki | Ocena | Pewność |
 |---|---|---|---|---|---|---|---|
-| niedz 22.11 | Przelotny śnieg 🧊 🔋chłód | -3...2°C | 0.7 mm (36%) | 45 km/h | błotniste | 🔴 27 | średnia |
-| pon 23.11 | Przelotny śnieg ❄️ 🧊 🔋chłód 💨 | -5...-3°C | 8.0 mm (94%) | 47 km/h | śnieg | 🔴 0 | średnia |
-| wt 24.11 | Słaby śnieg ❄️ 🧊 🔋chłód 💨 | -5...-3°C | 7.5 mm (87%) | 48 km/h | śnieg | 🔴 0 | średnia |
-| śr 25.11 | Słaby śnieg 🧊 🔋chłód | -7...-1°C | 0.1 mm (38%) | 19 km/h | zamarznięte/śliskie | 🔴 30 | średnia |
-| czw 26.11 | Umiarkowany śnieg ❄️ 🧊 🔋chłód | -6...-3°C | 5.5 mm (42%) | 31 km/h | śnieg | 🔴 0 | średnia |
-| pt 27.11 | Umiarkowany śnieg ❄️ 🧊 🔋chłód | -6...-4°C | 1.9 mm (40%) | 23 km/h | śnieg | 🔴 0 | niska |
-| sob 28.11 | Słaby śnieg ❄️ 🧊 🔋chłód | -8...-4°C | 1.2 mm (22%) | 17 km/h | śnieg | 🔴 0 | średnia |
+| pon 23.11 | Przelotny śnieg ❄️ 🧊 🔋chłód 💨 | -4...-2°C | 6.4 mm (100%) | 50 km/h | śnieg | 🔴 0 | średnia |
+| wt 24.11 | Umiarkowany śnieg ❄️ 🧊 🔋chłód 💨 | -5...-3°C | 11.6 mm (98%) | 47 km/h | śnieg | 🔴 0 | średnia |
+| śr 25.11 | Słaby śnieg 🧊 🔋chłód | -7...-1°C | 0.0 mm (34%) | 17 km/h | zamarznięte/śliskie | 🔴 30 | średnia |
+| czw 26.11 | Umiarkowany śnieg ❄️ 🧊 🔋chłód | -5...-3°C | 8.7 mm (67%) | 31 km/h | śnieg | 🔴 0 | średnia |
+| pt 27.11 | Umiarkowany śnieg ❄️ 🧊 🔋chłód | -6...-4°C | 4.2 mm (64%) | 28 km/h | śnieg | 🔴 0 | średnia |
+| sob 28.11 | Ziarna śniegu 🧊 🔋chłód | -11...-4°C | 0.2 mm (15%) | 40 km/h | zamarznięte/śliskie | 🔴 30 | wysoka |
+| niedz 29.11 | Pochmurno 🧊 🔋chłód | -13...-2°C | 0.0 mm (9%) | 36 km/h | zamarznięte/śliskie | 🔴 30 | średnia |
 
 ### Limone sul Garda
 _np. Tremalzo, Ponale; prognoza dla okolic jeziora, na szlakach powyżej 1000 m bywa o kilka stopni chłodniej_
 
 | Dzień | Pogoda | Temp. | Opad | Porywy | Szlaki | Ocena | Pewność |
 |---|---|---|---|---|---|---|---|
-| niedz 22.11 | Umiarkowany deszcz | 6...9°C | 12.3 mm (100%) | 28 km/h | mokre, błoto miejscami | 🔴 25 | niska |
-| pon 23.11 | Pochmurno | 6...12°C | 0.0 mm (4%) | 34 km/h | błotniste | 🟡 77 | niska |
-| wt 24.11 | Lekka mżawka | 6...10°C | 0.2 mm (24%) | 26 km/h | mokre, błoto miejscami | 🟢 80 | wysoka |
-| śr 25.11 | Słabe przelotne opady | 6...9°C | 18.7 mm (92%) | 33 km/h | błotniste | 🔴 9 | średnia |
-| czw 26.11 | Słabe przelotne opady | 6...10°C | 9.6 mm (85%) | 18 km/h | błotniste | 🔴 17 | średnia |
-| pt 27.11 | Słabe przelotne opady | 5...9°C | 0.3 mm (29%) | 14 km/h | błotniste | 🟡 72 | niska |
-| sob 28.11 | Pochmurno | 3...9°C | 0.0 mm (11%) | 20 km/h | błotniste | 🟡 77 | średnia |
+| pon 23.11 | Pochmurno | 6...11°C | 0.0 mm (2%) | 40 km/h | błotniste | 🟡 69 | średnia |
+| wt 24.11 | Pochmurno | 7...10°C | 0.0 mm (30%) | 20 km/h | mokre, błoto miejscami | 🟢 85 | wysoka |
+| śr 25.11 | Przelotne opady | 6...10°C | 23.1 mm (100%) | 32 km/h | błotniste | 🔴 9 | niska |
+| czw 26.11 | Słabe przelotne opady | 6...8°C | 15.4 mm (93%) | 26 km/h | błotniste | 🔴 17 | średnia |
+| pt 27.11 | Pochmurno | 5...9°C | 0.1 mm (26%) | 21 km/h | błotniste | 🟡 77 | niska |
+| sob 28.11 | Przeważnie słonecznie | 3...8°C | 0.0 mm (6%) | 25 km/h | błotniste | 🟡 77 | średnia |
+| niedz 29.11 | Częściowe zachmurzenie | 4...10°C | 0.0 mm (8%) | 23 km/h | mokre, błoto miejscami | 🟢 85 | średnia |
 
 ## Nowości ze świata e-MTB
 
-- Shimano zaprezentowało nową flagową jednostkę eMTB EP810 oferującą do 100 Nm momentu obrotowego i 750 W mocy szczytowej przy wadze 2,3 kg.
-- Orbea zapowiedziała trzecią generację modelu Rise LT na rok 2027 z nowym silnikiem Shimano EP810 RS o mocy do 600 W i własnymi bateriami marki.
-- Sprawdzono nową konstrukcyjnie hybrydę Honda RN0 wyposażoną w lekki silnik Shimano i osprzęt ROTWILD o wadze około 24 kg, skierowaną do miłośników turystyki i szlaków.
-- Canyon zaprezentował model LUX Trail 2027 o skoku 140/125 mm, lżejszej wadze i zmodyfikowanej geometrii dedykowanej segmentowi downcountry.
+- Shimano zaprezentowało nową flagową jednostkę eMTB EP810 o wadze 2,3 kg, oferującą do 100 Nm momentu obrotowego i 750 W mocy szczytowej.
+- Nowa trzecia generacja Orbea Rise LT 2027 została wyposażona w nowy silnik Shimano EP810 RS dostarczający do 100 Nm oraz własne baterie producenta.
+- Na rynku debiutuje rower Honda RN0 powstały we współpracy z ROTWILD, łączący lekki silnik Shimano z charakterystyką motocyklową i masą około 24 kg.
+- Zmodernizowany Canyon Lux Trail 2027 celuje w segment downcountry, oferując 140/125 mm skoku, mniejszą wagę oraz całkowicie zmienioną geometrię.
 
 ## Jak liczymy prognozę
 
